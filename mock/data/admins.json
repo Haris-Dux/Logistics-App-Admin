@@ -1,0 +1,42 @@
+[
+  {
+    "id": "8f16f58d-a00d-55e3-bdf2-5ee8c0d60e41",
+    "name": "Hannah Clarke",
+    "email": "hannah.clarke@logisticapp.co.uk",
+    "username": "admin",
+    "password": "admin123",
+    "depotId": null,
+    "active": true,
+    "lastLoginAt": "2026-10-01T06:02:00.000Z"
+  },
+  {
+    "id": "91601f5d-5210-5488-97ab-f7a70d4d80c5",
+    "name": "Mark Evans",
+    "email": "mark.evans@logisticapp.co.uk",
+    "username": "mark",
+    "password": "mark1234",
+    "depotId": "west-london",
+    "active": true,
+    "lastLoginAt": "2026-10-01T05:31:00.000Z"
+  },
+  {
+    "id": "b45aa14b-033c-5c89-8b79-391d525fd933",
+    "name": "Priya Shah",
+    "email": "priya.shah@logisticapp.co.uk",
+    "username": "priya",
+    "password": "priya1234",
+    "depotId": "north-london",
+    "active": true,
+    "lastLoginAt": "2026-09-30T05:12:00.000Z"
+  },
+  {
+    "id": "ce3b4ee8-35c7-562a-9f90-265ce20b5d60",
+    "name": "Tom Riley",
+    "email": "tom.riley@logisticapp.co.uk",
+    "username": "tom",
+    "password": "tom12345",
+    "depotId": "thames-valley",
+    "active": false,
+    "lastLoginAt": "2026-06-28T07:20:00.000Z"
+  }
+]

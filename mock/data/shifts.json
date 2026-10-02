@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "d9bd2511-1869-555a-9e5d-f71f4056d245",
+    "date": "2026-09-25",
+    "depotId": "west-london",
+    "routeNumber": "33",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
+    "status": "ended",
+    "startedAt": "2026-09-25T04:23:00.000Z",
+    "endedAt": "2026-09-25T15:59:18.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T15:59:18.000Z"
+    }
+  },
+  {
+    "id": "3b667746-8d28-52df-8e84-96e759830bcf",
+    "date": "2026-09-25",
+    "depotId": "thames-valley",
+    "routeNumber": "34",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
+    "status": "ended",
+    "startedAt": "2026-09-25T04:23:00.000Z",
+    "endedAt": "2026-09-25T18:28:25.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T18:28:25.000Z"
+    }
+  },
+  {
+    "id": "80b58c74-0f81-5bbc-82f3-f32dafd514b2",
+    "date": "2026-09-25",
+    "depotId": "north-london",
+    "routeNumber": "35",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "status": "ended",
+    "startedAt": "2026-09-25T04:23:00.000Z",
+    "endedAt": "2026-09-25T19:45:18.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T19:45:18.000Z"
+    }
+  },
+  {
+    "id": "d698ca2b-c7cc-59c4-8662-f473d477a28d",
+    "date": "2026-09-25",
+    "depotId": "west-london",
+    "routeNumber": "36",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
+    "status": "ended",
+    "startedAt": "2026-09-25T04:07:00.000Z",
+    "endedAt": "2026-09-25T16:10:16.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T16:10:16.000Z"
+    }
+  },
+  {
+    "id": "8e218b39-b196-5c70-9c80-8b3e8b5fffff",
+    "date": "2026-09-25",
+    "depotId": "thames-valley",
+    "routeNumber": "37",
+    "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
+    "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
+    "status": "ended",
+    "startedAt": "2026-09-25T04:12:00.000Z",
+    "endedAt": "2026-09-25T14:09:42.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T14:09:42.000Z"
+    }
+  },
+  {
+    "id": "8e1f4065-cfc6-5134-acb2-ed52d26ef564",
+    "date": "2026-09-25",
+    "depotId": "north-london",
+    "routeNumber": "38",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
+    "status": "ended",
+    "startedAt": "2026-09-25T04:09:00.000Z",
+    "endedAt": "2026-09-25T14:34:49.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T14:34:49.000Z"
+    }
+  },
+  {
+    "id": "facdaac3-833b-55b1-ba68-944add243c24",
+    "date": "2026-09-25",
+    "depotId": "west-london",
+    "routeNumber": "39",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "status": "ended",
+    "startedAt": "2026-09-25T03:43:00.000Z",
+    "endedAt": "2026-09-25T15:44:52.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T15:44:52.000Z"
+    }
+  },
+  {
+    "id": "45fcde47-cddb-57db-8721-8d6a5a30ef7b",
+    "date": "2026-09-25",
+    "depotId": "thames-valley",
+    "routeNumber": "40",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "status": "ended",
+    "startedAt": "2026-09-25T03:13:00.000Z",
+    "endedAt": "2026-09-25T15:41:19.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T15:41:19.000Z"
+    }
+  },
+  {
+    "id": "2598bc7c-0258-5962-a189-8d958e35e246",
+    "date": "2026-09-25",
+    "depotId": "north-london",
+    "routeNumber": "41",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "status": "ended",
+    "startedAt": "2026-09-25T02:41:00.000Z",
+    "endedAt": "2026-09-25T16:18:11.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T16:18:11.000Z"
+    }
+  },
+  {
+    "id": "8e372cfe-0148-5c94-8905-091ca32a370b",
+    "date": "2026-09-25",
+    "depotId": "west-london",
+    "routeNumber": "42",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "status": "ended",
+    "startedAt": "2026-09-25T03:58:00.000Z",
+    "endedAt": "2026-09-25T15:08:16.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-25T15:08:16.000Z"
+    }
+  },
+  {
+    "id": "0939f36c-1243-5c33-9ba6-5a305c57e4e5",
+    "date": "2026-09-26",
+    "depotId": "west-london",
+    "routeNumber": "33",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
+    "status": "ended",
+    "startedAt": "2026-09-26T04:15:00.000Z",
+    "endedAt": "2026-09-26T16:33:26.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T16:33:26.000Z"
+    }
+  },
+  {
+    "id": "fbc52488-b2db-58a9-a16b-c704ba35bae6",
+    "date": "2026-09-26",
+    "depotId": "thames-valley",
+    "routeNumber": "34",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
+    "status": "ended",
+    "startedAt": "2026-09-26T04:15:00.000Z",
+    "endedAt": "2026-09-26T18:17:47.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T18:17:47.000Z"
+    }
+  },
+  {
+    "id": "335f21d6-3808-5045-b999-b4c73197336f",
+    "date": "2026-09-26",
+    "depotId": "north-london",
+    "routeNumber": "35",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "status": "ended",
+    "startedAt": "2026-09-26T04:23:00.000Z",
+    "endedAt": "2026-09-26T19:41:48.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T19:41:48.000Z"
+    }
+  },
+  {
+    "id": "7b58d5c9-20ee-5852-baa2-c529ec348107",
+    "date": "2026-09-26",
+    "depotId": "west-london",
+    "routeNumber": "36",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
+    "status": "ended",
+    "startedAt": "2026-09-26T04:09:00.000Z",
+    "endedAt": "2026-09-26T16:20:00.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T16:20:00.000Z"
+    }
+  },
+  {
+    "id": "a4c9571e-4fe2-5650-8fa3-b4656f73bbbd",
+    "date": "2026-09-26",
+    "depotId": "thames-valley",
+    "routeNumber": "37",
+    "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
+    "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
+    "status": "ended",
+    "startedAt": "2026-09-26T04:09:00.000Z",
+    "endedAt": "2026-09-26T13:54:16.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T13:54:16.000Z"
+    }
+  },
+  {
+    "id": "4acf046b-1dca-5565-b4b2-179208f14491",
+    "date": "2026-09-26",
+    "depotId": "north-london",
+    "routeNumber": "38",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
+    "status": "ended",
+    "startedAt": "2026-09-26T04:12:00.000Z",
+    "endedAt": "2026-09-26T14:22:17.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T14:22:17.000Z"
+    }
+  },
+  {
+    "id": "34b1b6ba-b1c4-559c-834a-ffb43ed01d92",
+    "date": "2026-09-26",
+    "depotId": "west-london",
+    "routeNumber": "39",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "status": "ended",
+    "startedAt": "2026-09-26T03:39:00.000Z",
+    "endedAt": "2026-09-26T16:03:29.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T16:03:29.000Z"
+    }
+  },
+  {
+    "id": "5bd2f645-d243-58c7-8833-58998ef4fa12",
+    "date": "2026-09-26",
+    "depotId": "thames-valley",
+    "routeNumber": "40",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "status": "ended",
+    "startedAt": "2026-09-26T03:13:00.000Z",
+    "endedAt": "2026-09-26T16:18:32.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T16:18:32.000Z"
+    }
+  },
+  {
+    "id": "931cf582-4210-58be-8604-42d3c6f94f5c",
+    "date": "2026-09-26",
+    "depotId": "north-london",
+    "routeNumber": "41",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "status": "ended",
+    "startedAt": "2026-09-26T02:38:00.000Z",
+    "endedAt": "2026-09-26T16:17:51.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T16:17:51.000Z"
+    }
+  },
+  {
+    "id": "076c252c-8993-5587-87ce-0d09f4642caa",
+    "date": "2026-09-26",
+    "depotId": "west-london",
+    "routeNumber": "42",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "status": "ended",
+    "startedAt": "2026-09-26T03:59:00.000Z",
+    "endedAt": "2026-09-26T14:59:11.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-26T14:59:11.000Z"
+    }
+  },
+  {
+    "id": "cf12089a-33ab-5ef1-a2a1-1e2de2da6adf",
+    "date": "2026-09-27",
+    "depotId": "west-london",
+    "routeNumber": "33",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
+    "status": "ended",
+    "startedAt": "2026-09-27T04:17:00.000Z",
+    "endedAt": "2026-09-27T16:01:24.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T16:01:24.000Z"
+    }
+  },
+  {
+    "id": "82ddc637-8aaa-5ebf-bc14-aabb14a9da09",
+    "date": "2026-09-27",
+    "depotId": "thames-valley",
+    "routeNumber": "34",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
+    "status": "ended",
+    "startedAt": "2026-09-27T04:23:00.000Z",
+    "endedAt": "2026-09-27T18:24:02.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T18:24:02.000Z"
+    }
+  },
+  {
+    "id": "ba43a311-c650-59b1-a644-a21ac29bf126",
+    "date": "2026-09-27",
+    "depotId": "north-london",
+    "routeNumber": "35",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "status": "ended",
+    "startedAt": "2026-09-27T04:20:00.000Z",
+    "endedAt": "2026-09-27T19:40:49.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T19:40:49.000Z"
+    }
+  },
+  {
+    "id": "e7e2019c-fab4-5637-9545-45b064430704",
+    "date": "2026-09-27",
+    "depotId": "west-london",
+    "routeNumber": "36",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
+    "status": "ended",
+    "startedAt": "2026-09-27T04:07:00.000Z",
+    "endedAt": "2026-09-27T15:59:51.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T15:59:51.000Z"
+    }
+  },
+  {
+    "id": "65687e9c-f65c-5d93-85b7-13383f232e3c",
+    "date": "2026-09-27",
+    "depotId": "thames-valley",
+    "routeNumber": "37",
+    "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
+    "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
+    "status": "ended",
+    "startedAt": "2026-09-27T04:07:00.000Z",
+    "endedAt": "2026-09-27T13:49:11.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T13:49:11.000Z"
+    }
+  },
+  {
+    "id": "2c21850f-affa-50de-a490-fa9476290ee6",
+    "date": "2026-09-27",
+    "depotId": "north-london",
+    "routeNumber": "38",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
+    "status": "ended",
+    "startedAt": "2026-09-27T04:10:00.000Z",
+    "endedAt": "2026-09-27T14:07:33.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T14:07:33.000Z"
+    }
+  },
+  {
+    "id": "1d89bcdb-46bb-53bc-9f70-fe5e0a36d5d7",
+    "date": "2026-09-27",
+    "depotId": "west-london",
+    "routeNumber": "39",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "status": "ended",
+    "startedAt": "2026-09-27T03:37:00.000Z",
+    "endedAt": "2026-09-27T15:51:39.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T15:51:39.000Z"
+    }
+  },
+  {
+    "id": "0a71e726-f6c6-5727-95d4-72858e36a599",
+    "date": "2026-09-27",
+    "depotId": "thames-valley",
+    "routeNumber": "40",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "status": "ended",
+    "startedAt": "2026-09-27T03:17:00.000Z",
+    "endedAt": "2026-09-27T15:43:19.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T15:43:19.000Z"
+    }
+  },
+  {
+    "id": "83314968-730b-5167-a816-470b4d3160d3",
+    "date": "2026-09-27",
+    "depotId": "north-london",
+    "routeNumber": "41",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "status": "ended",
+    "startedAt": "2026-09-27T02:40:00.000Z",
+    "endedAt": "2026-09-27T16:29:40.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T16:29:40.000Z"
+    }
+  },
+  {
+    "id": "951e2327-e79d-5fc7-93ea-babfd53d74b0",
+    "date": "2026-09-27",
+    "depotId": "west-london",
+    "routeNumber": "42",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "status": "ended",
+    "startedAt": "2026-09-27T03:59:00.000Z",
+    "endedAt": "2026-09-27T15:18:37.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-27T15:18:37.000Z"
+    }
+  },
+  {
+    "id": "0b1276f4-99fa-51e5-befb-e693d2d0f2f2",
+    "date": "2026-09-28",
+    "depotId": "west-london",
+    "routeNumber": "33",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
+    "status": "ended",
+    "startedAt": "2026-09-28T04:15:00.000Z",
+    "endedAt": "2026-09-28T16:02:58.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T16:02:58.000Z"
+    }
+  },
+  {
+    "id": "61ea6c7a-ca68-5daf-a4c6-3d428597e7c2",
+    "date": "2026-09-28",
+    "depotId": "thames-valley",
+    "routeNumber": "34",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
+    "status": "ended",
+    "startedAt": "2026-09-28T04:21:00.000Z",
+    "endedAt": "2026-09-28T18:09:02.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T18:09:02.000Z"
+    }
+  },
+  {
+    "id": "e7baa649-cd55-5d7d-bdbf-44a317c114f1",
+    "date": "2026-09-28",
+    "depotId": "north-london",
+    "routeNumber": "35",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "status": "ended",
+    "startedAt": "2026-09-28T04:14:00.000Z",
+    "endedAt": "2026-09-28T19:46:55.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T19:46:55.000Z"
+    }
+  },
+  {
+    "id": "84b8cb99-031d-58d7-a323-71d0659b1e4e",
+    "date": "2026-09-28",
+    "depotId": "west-london",
+    "routeNumber": "36",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
+    "status": "ended",
+    "startedAt": "2026-09-28T04:00:00.000Z",
+    "endedAt": "2026-09-28T15:41:38.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T15:41:38.000Z"
+    }
+  },
+  {
+    "id": "f90c40d2-01f2-552f-af87-39b15038a39d",
+    "date": "2026-09-28",
+    "depotId": "thames-valley",
+    "routeNumber": "37",
+    "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
+    "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
+    "status": "ended",
+    "startedAt": "2026-09-28T04:03:00.000Z",
+    "endedAt": "2026-09-28T13:42:56.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T13:42:56.000Z"
+    }
+  },
+  {
+    "id": "226addc5-d814-53be-b305-a2a28e78597c",
+    "date": "2026-09-28",
+    "depotId": "north-london",
+    "routeNumber": "38",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
+    "status": "ended",
+    "startedAt": "2026-09-28T04:09:00.000Z",
+    "endedAt": "2026-09-28T14:09:25.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T14:09:25.000Z"
+    }
+  },
+  {
+    "id": "4122b895-4687-597c-bd8f-c9f9a3aefb13",
+    "date": "2026-09-28",
+    "depotId": "west-london",
+    "routeNumber": "39",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "status": "ended",
+    "startedAt": "2026-09-28T03:38:00.000Z",
+    "endedAt": "2026-09-28T15:40:53.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T15:40:53.000Z"
+    }
+  },
+  {
+    "id": "ceff47f7-07a3-56b8-ae9e-184960de5ace",
+    "date": "2026-09-28",
+    "depotId": "thames-valley",
+    "routeNumber": "40",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "status": "ended",
+    "startedAt": "2026-09-28T03:14:00.000Z",
+    "endedAt": "2026-09-28T15:59:48.000Z",
+    "lastPosition": {
+      "lat": 51.523,
+      "lng": -0.625,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T15:59:48.000Z"
+    }
+  },
+  {
+    "id": "fb946245-d0a6-59ef-ac53-0d7e7bc85cc1",
+    "date": "2026-09-28",
+    "depotId": "north-london",
+    "routeNumber": "41",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "status": "ended",
+    "startedAt": "2026-09-28T02:35:00.000Z",
+    "endedAt": "2026-09-28T16:21:13.000Z",
+    "lastPosition": {
+      "lat": 51.655,
+      "lng": -0.03,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T16:21:13.000Z"
+    }
+  },
+  {
+    "id": "92b7a47c-fda7-5ad6-855d-c58a2b7369d5",
+    "date": "2026-09-28",
+    "depotId": "west-london",
+    "routeNumber": "42",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "vehicleId": "d24d05a0-eb70-503d-96ec-c6cbb4a53577",
+    "status": "ended",
+    "startedAt": "2026-09-28T03:56:00.000Z",
+    "endedAt": "2026-09-28T15:04:35.000Z",
+    "lastPosition": {
+      "lat": 51.529,
+      "lng": -0.269,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 9,
+      "recordedAt": "2026-09-28T15:04:35.000Z"
+    }
+  },
+  {
+    "id": "c1c02652-f017-53a1-b422-b72b8968fd5a",
+    "date": "2026-09-29",
+    "depotId": "west-london",
+    "routeNumber": "33",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
+    "status": "ended",
+    "startedAt": "2026-09-29T04:18:00.000Z",
+    "endedAt": "2026-09-29T15:55:45.000Z",
+    "lastPosition": {
+      "lat": 51.529014,
+      "lng": -0.269045,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 31,
+      "recordedAt": "2026-09-29T15:54:00.000Z"
+    }
+  },
+  {
+    "id": "48bba588-43ee-5774-a536-653d6d78627a",
+    "date": "2026-09-29",
+    "depotId": "thames-valley",
+    "routeNumber": "34",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
+    "status": "ended",
+    "startedAt": "2026-09-29T04:17:00.000Z",
+    "endedAt": "2026-09-29T18:10:38.000Z",
+    "lastPosition": {
+      "lat": 51.523002,
+      "lng": -0.624949,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 37,
+      "recordedAt": "2026-09-29T18:08:00.000Z"
+    }
+  },
+  {
+    "id": "38b80bb1-2b1d-597e-a612-3a1dfc20419c",
+    "date": "2026-09-29",
+    "depotId": "north-london",
+    "routeNumber": "35",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "status": "ended",
+    "startedAt": "2026-09-29T04:19:00.000Z",
+    "endedAt": "2026-09-29T19:33:46.000Z",
+    "lastPosition": {
+      "lat": 51.654964,
+      "lng": -0.030051,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 25,
+      "recordedAt": "2026-09-29T19:31:00.000Z"
+    }
+  },
+  {
+    "id": "ed759d84-b1aa-5ad4-a812-6149fa2dc3e9",
+    "date": "2026-09-29",
+    "depotId": "west-london",
+    "routeNumber": "36",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
+    "status": "ended",
+    "startedAt": "2026-09-29T04:01:00.000Z",
+    "endedAt": "2026-09-29T15:43:12.000Z",
+    "lastPosition": {
+      "lat": 51.529001,
+      "lng": -0.269039,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 26,
+      "recordedAt": "2026-09-29T15:43:00.000Z"
+    }
+  },
+  {
+    "id": "b48fdf86-641f-5065-9933-e5eb5caad0c1",
+    "date": "2026-09-29",
+    "depotId": "thames-valley",
+    "routeNumber": "37",
+    "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
+    "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
+    "status": "ended",
+    "startedAt": "2026-09-29T04:08:00.000Z",
+    "endedAt": "2026-09-29T14:10:58.000Z",
+    "lastPosition": {
+      "lat": 51.52303,
+      "lng": -0.625029,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 32,
+      "recordedAt": "2026-09-29T14:08:00.000Z"
+    }
+  },
+  {
+    "id": "3016eb8b-325c-5e24-9ff7-964ce706cbc7",
+    "date": "2026-09-29",
+    "depotId": "north-london",
+    "routeNumber": "38",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
+    "status": "ended",
+    "startedAt": "2026-09-29T04:08:00.000Z",
+    "endedAt": "2026-09-29T14:32:38.000Z",
+    "lastPosition": {
+      "lat": 51.655025,
+      "lng": -0.030024,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 31,
+      "recordedAt": "2026-09-29T14:32:00.000Z"
+    }
+  },
+  {
+    "id": "b87bec46-0341-522f-b381-d90ec8dcb337",
+    "date": "2026-09-29",
+    "depotId": "west-london",
+    "routeNumber": "39",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "status": "ended",
+    "startedAt": "2026-09-29T03:38:00.000Z",
+    "endedAt": "2026-09-29T15:43:06.000Z",
+    "lastPosition": {
+      "lat": 51.528986,
+      "lng": -0.269053,
+      "speed": 0,
+      "course": 180,
+      "accuracy": 39,
+      "recordedAt": "2026-09-29T15:41:00.000Z"
+    }
+  },
+  {
+    "id": "7ee12779-c647-5e44-abaf-531cc22d5d05",
+    "date": "2026-09-29",
+    "depotId": "thames-valley",
+    "routeNumber": "40",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "status": "ended",
+    "startedAt": "2026-09-29T03:10:00.000Z",
+    "endedAt": "2026-09-29T16:38:22.000Z",
+    "lastPosition": {
+      "lat": 51.523025,
+      "lng": -0.624952,
+      "speed": 0,
+      "course": 180,
+      "accuracy": 29,
+      "recordedAt": "2026-09-29T16:37:00.000Z"
+    }
+  },
+  {
+    "id": "0d10b557-304c-5924-be32-87cbf726ff73",
+    "date": "2026-09-29",
+    "depotId": "north-london",
+    "routeNumber": "41",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "status": "ended",
+    "startedAt": "2026-09-29T02:34:00.000Z",
+    "endedAt": "2026-09-29T16:33:42.000Z",
+    "lastPosition": {
+      "lat": 51.654977,
+      "lng": -0.029974,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 39,
+      "recordedAt": "2026-09-29T16:31:00.000Z"
+    }
+  },
+  {
+    "id": "9f761fd9-893b-5f53-91de-62ec67ab934c",
+    "date": "2026-09-29",
+    "depotId": "west-london",
+    "routeNumber": "42",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "status": "ended",
+    "startedAt": "2026-09-29T03:58:00.000Z",
+    "endedAt": "2026-09-29T15:42:44.000Z",
+    "lastPosition": {
+      "lat": 51.529009,
+      "lng": -0.269046,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 34,
+      "recordedAt": "2026-09-29T15:40:00.000Z"
+    }
+  },
+  {
+    "id": "787b5a01-e702-5a48-99a5-a28c24a42959",
+    "date": "2026-09-30",
+    "depotId": "west-london",
+    "routeNumber": "33",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
+    "status": "ended",
+    "startedAt": "2026-09-30T04:18:00.000Z",
+    "endedAt": "2026-09-30T15:48:21.000Z",
+    "lastPosition": {
+      "lat": 51.528973,
+      "lng": -0.268964,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 28,
+      "recordedAt": "2026-09-30T15:48:00.000Z"
+    }
+  },
+  {
+    "id": "f5da8d9f-f8a4-50ea-9c32-8552a7eed66a",
+    "date": "2026-09-30",
+    "depotId": "thames-valley",
+    "routeNumber": "34",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
+    "status": "ended",
+    "startedAt": "2026-09-30T04:19:00.000Z",
+    "endedAt": "2026-09-30T18:11:39.000Z",
+    "lastPosition": {
+      "lat": 51.523001,
+      "lng": -0.625045,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 34,
+      "recordedAt": "2026-09-30T18:10:00.000Z"
+    }
+  },
+  {
+    "id": "ee6a2861-0e00-583c-aa19-d8884e3d520d",
+    "date": "2026-09-30",
+    "depotId": "north-london",
+    "routeNumber": "35",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "status": "ended",
+    "startedAt": "2026-09-30T04:20:00.000Z",
+    "endedAt": "2026-09-30T19:37:04.000Z",
+    "lastPosition": {
+      "lat": 51.65497,
+      "lng": -0.029949,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 32,
+      "recordedAt": "2026-09-30T19:35:00.000Z"
+    }
+  },
+  {
+    "id": "f890e1b1-f53f-5a1b-8165-f880d27201bc",
+    "date": "2026-09-30",
+    "depotId": "west-london",
+    "routeNumber": "36",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
+    "status": "ended",
+    "startedAt": "2026-09-30T04:03:00.000Z",
+    "endedAt": "2026-09-30T15:49:17.000Z",
+    "lastPosition": {
+      "lat": 51.529001,
+      "lng": -0.268989,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 29,
+      "recordedAt": "2026-09-30T15:48:00.000Z"
+    }
+  },
+  {
+    "id": "b9eb68fb-22b8-58f6-9605-229f33912591",
+    "date": "2026-09-30",
+    "depotId": "thames-valley",
+    "routeNumber": "37",
+    "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
+    "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
+    "status": "ended",
+    "startedAt": "2026-09-30T04:10:00.000Z",
+    "endedAt": "2026-09-30T13:39:48.000Z",
+    "lastPosition": {
+      "lat": 51.523008,
+      "lng": -0.625027,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 32,
+      "recordedAt": "2026-09-30T13:37:00.000Z"
+    }
+  },
+  {
+    "id": "06eedd1d-1cdb-56d6-ab22-42841da8f944",
+    "date": "2026-09-30",
+    "depotId": "north-london",
+    "routeNumber": "38",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
+    "status": "ended",
+    "startedAt": "2026-09-30T04:07:00.000Z",
+    "endedAt": "2026-09-30T14:21:01.000Z",
+    "lastPosition": {
+      "lat": 51.655008,
+      "lng": -0.030023,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 27,
+      "recordedAt": "2026-09-30T14:19:00.000Z"
+    }
+  },
+  {
+    "id": "ddcc437f-0067-5928-bb0d-ae8f128db69a",
+    "date": "2026-09-30",
+    "depotId": "west-london",
+    "routeNumber": "39",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "status": "ended",
+    "startedAt": "2026-09-30T03:42:00.000Z",
+    "endedAt": "2026-09-30T15:28:23.000Z",
+    "lastPosition": {
+      "lat": 51.52898,
+      "lng": -0.26895,
+      "speed": 0,
+      "course": 180,
+      "accuracy": 40,
+      "recordedAt": "2026-09-30T15:27:00.000Z"
+    }
+  },
+  {
+    "id": "89950304-c956-5908-882c-a63988a49d8e",
+    "date": "2026-09-30",
+    "depotId": "thames-valley",
+    "routeNumber": "40",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "status": "ended",
+    "startedAt": "2026-09-30T03:15:00.000Z",
+    "endedAt": "2026-09-30T15:51:44.000Z",
+    "lastPosition": {
+      "lat": 51.523036,
+      "lng": -0.625013,
+      "speed": 0,
+      "course": 180,
+      "accuracy": 25,
+      "recordedAt": "2026-09-30T15:51:00.000Z"
+    }
+  },
+  {
+    "id": "aeae931e-fb8a-5434-bbfc-1f90d1d3ab41",
+    "date": "2026-09-30",
+    "depotId": "north-london",
+    "routeNumber": "41",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "status": "ended",
+    "startedAt": "2026-09-30T02:39:00.000Z",
+    "endedAt": "2026-09-30T16:13:30.000Z",
+    "lastPosition": {
+      "lat": 51.654974,
+      "lng": -0.029948,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 30,
+      "recordedAt": "2026-09-30T16:12:00.000Z"
+    }
+  },
+  {
+    "id": "d3b8327d-319f-576c-b865-7cf1a95c0283",
+    "date": "2026-09-30",
+    "depotId": "west-london",
+    "routeNumber": "42",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "status": "ended",
+    "startedAt": "2026-09-30T03:57:00.000Z",
+    "endedAt": "2026-09-30T15:14:12.000Z",
+    "lastPosition": {
+      "lat": 51.528986,
+      "lng": -0.269037,
+      "speed": 0,
+      "course": 0,
+      "accuracy": 29,
+      "recordedAt": "2026-09-30T15:12:00.000Z"
+    }
+  },
+  {
+    "id": "4610d4e2-9a24-5b64-86ef-222e4750b6ce",
+    "date": "2026-10-01",
+    "depotId": "west-london",
+    "routeNumber": "33",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
+    "status": "idle",
+    "startedAt": "2026-10-01T04:24:00.000Z",
+    "endedAt": null,
+    "lastPosition": {
+      "lat": 51.513262,
+      "lng": -0.279879,
+      "speed": 0,
+      "course": 90,
+      "accuracy": 15,
+      "recordedAt": "2026-10-01T13:42:00.000Z"
+    }
+  },
+  {
+    "id": "d8cee17b-9e13-59cc-a652-b89133785cfb",
+    "date": "2026-10-01",
+    "depotId": "thames-valley",
+    "routeNumber": "34",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
+    "status": "driving",
+    "startedAt": "2026-10-01T04:16:00.000Z",
+    "endedAt": null,
+    "lastPosition": {
+      "lat": 51.502542,
+      "lng": -0.644628,
+      "speed": 2.6,
+      "course": 270,
+      "accuracy": 8,
+      "recordedAt": "2026-10-01T13:43:00.000Z"
+    }
+  },
+  {
+    "id": "7203d356-1c31-535c-bd33-59cb252953cd",
+    "date": "2026-10-01",
+    "depotId": "north-london",
+    "routeNumber": "35",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "status": "driving",
+    "startedAt": "2026-10-01T04:17:00.000Z",
+    "endedAt": null,
+    "lastPosition": {
+      "lat": 51.614836,
+      "lng": -0.067051,
+      "speed": 4.2,
+      "course": 270,
+      "accuracy": 12,
+      "recordedAt": "2026-10-01T13:44:00.000Z"
+    }
+  },
+  {
+    "id": "887cd979-6e9e-5ace-97d0-c169edfcf566",
+    "date": "2026-10-01",
+    "depotId": "west-london",
+    "routeNumber": "36",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
+    "status": "at_stop",
+    "startedAt": "2026-10-01T04:04:00.000Z",
+    "endedAt": null,
+    "lastPosition": {
+      "lat": 51.540234,
+      "lng": -0.477436,
+      "speed": 0,
+      "course": 270,
+      "accuracy": 17,
+      "recordedAt": "2026-10-01T13:43:00.000Z"
+    }
+  },
+  {
+    "id": "a951fa0a-0b38-5dfb-aec3-c5eb98f91cbe",
+    "date": "2026-10-01",
+    "depotId": "thames-valley",
+    "routeNumber": "37",
+    "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
+    "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
+    "status": "ended",
+    "startedAt": "2026-10-01T04:08:00.000Z",
+    "endedAt": "2026-10-01T13:33:58.000Z",
+    "lastPosition": {
+      "lat": 51.501235,
+      "lng": -0.62507,
+      "speed": 19.8,
+      "course": 0,
+      "accuracy": 35,
+      "recordedAt": "2026-10-01T13:32:00.000Z"
+    }
+  },
+  {
+    "id": "ffbd521e-f289-563e-92f3-fa4e608e422e",
+    "date": "2026-10-01",
+    "depotId": "north-london",
+    "routeNumber": "38",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
+    "status": "offline",
+    "startedAt": "2026-10-01T04:07:00.000Z",
+    "endedAt": null,
+    "lastPosition": {
+      "lat": 51.601907,
+      "lng": -0.17619,
+      "speed": 20.3,
+      "course": 90,
+      "accuracy": 7,
+      "recordedAt": "2026-10-01T13:31:00.000Z"
+    }
+  },
+  {
+    "id": "0ed054d1-3d2e-5212-ab9c-a00f239ee453",
+    "date": "2026-10-01",
+    "depotId": "west-london",
+    "routeNumber": "39",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "status": "driving",
+    "startedAt": "2026-10-01T03:37:00.000Z",
+    "endedAt": null,
+    "lastPosition": {
+      "lat": 51.621679,
+      "lng": -0.754909,
+      "speed": 2.6,
+      "course": 0,
+      "accuracy": 16,
+      "recordedAt": "2026-10-01T13:43:00.000Z"
+    }
+  },
+  {
+    "id": "71a7033f-c923-5a35-b69b-d8a6d2d7ad42",
+    "date": "2026-10-01",
+    "depotId": "thames-valley",
+    "routeNumber": "40",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "status": "driving",
+    "startedAt": "2026-10-01T03:14:00.000Z",
+    "endedAt": null,
+    "lastPosition": {
+      "lat": 51.584162,
+      "lng": 0.16598,
+      "speed": 6.7,
+      "course": 270,
+      "accuracy": 12,
+      "recordedAt": "2026-10-01T13:44:00.000Z"
+    }
+  },
+  {
+    "id": "507ee03a-48cc-53fc-965b-854ccb42d40f",
+    "date": "2026-10-01",
+    "depotId": "north-london",
+    "routeNumber": "41",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "status": "driving",
+    "startedAt": "2026-10-01T02:33:00.000Z",
+    "endedAt": null,
+    "lastPosition": {
+      "lat": 51.284156,
+      "lng": -0.888288,
+      "speed": 6.3,
+      "course": 270,
+      "accuracy": 9,
+      "recordedAt": "2026-10-01T13:42:00.000Z"
+    }
+  },
+  {
+    "id": "3123e69f-b643-565e-a013-41b3d03de06e",
+    "date": "2026-10-01",
+    "depotId": "west-london",
+    "routeNumber": "42",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "status": "driving",
+    "startedAt": "2026-10-01T03:55:00.000Z",
+    "endedAt": null,
+    "lastPosition": {
+      "lat": 51.370336,
+      "lng": -0.140406,
+      "speed": 2.8,
+      "course": 270,
+      "accuracy": 11,
+      "recordedAt": "2026-10-01T13:43:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "west-london",
+    "name": "West London Depot",
+    "location": {
+      "lat": 51.529,
+      "lng": -0.269
+    }
+  },
+  {
+    "id": "thames-valley",
+    "name": "Thames Valley Depot",
+    "location": {
+      "lat": 51.523,
+      "lng": -0.625
+    }
+  },
+  {
+    "id": "north-london",
+    "name": "North London Depot",
+    "location": {
+      "lat": 51.655,
+      "lng": -0.03
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b18045da-826a-4d5a-a1f8-8fdbfcc773e8",
+    "routeNumber": "33",
+    "name": "Bestway Route 33",
+    "depotId": "west-london"
+  },
+  {
+    "id": "ed5dc352-03e7-4e2c-9e44-c09010544b21",
+    "routeNumber": "34",
+    "name": "Bestway Route 34",
+    "depotId": "thames-valley"
+  },
+  {
+    "id": "1bdcd406-378e-43e0-911a-c202a4262645",
+    "routeNumber": "35",
+    "name": "Bestway Route 35",
+    "depotId": "north-london"
+  },
+  {
+    "id": "24a40d17-022c-4c63-92ca-4da64df11002",
+    "routeNumber": "36",
+    "name": "Bestway Route 36",
+    "depotId": "west-london"
+  },
+  {
+    "id": "7affead5-2fac-430c-acd1-04c0b0e62441",
+    "routeNumber": "37",
+    "name": "Bestway Route 37",
+    "depotId": "thames-valley"
+  },
+  {
+    "id": "61f267bf-45cd-459e-a328-975453de3ac6",
+    "routeNumber": "38",
+    "name": "Bestway Route 38",
+    "depotId": "north-london"
+  },
+  {
+    "id": "c419468f-ef72-448b-8ec9-734f889ed9aa",
+    "routeNumber": "39",
+    "name": "Bestway Route 39",
+    "depotId": "west-london"
+  },
+  {
+    "id": "9c28aeae-5203-4e1c-8f52-b84807b26fb0",
+    "routeNumber": "40",
+    "name": "Bestway Route 40",
+    "depotId": "thames-valley"
+  },
+  {
+    "id": "08aadb4c-8b7f-43da-a2e3-d0b22c7b5f4f",
+    "routeNumber": "41",
+    "name": "Bestway Route 41",
+    "depotId": "north-london"
+  },
+  {
+    "id": "f50b7e4a-f5fc-4607-8b44-560194f6f009",
+    "routeNumber": "42",
+    "name": "Bestway Route 42",
+    "depotId": "west-london"
+  }
+]

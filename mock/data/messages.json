@@ -1,0 +1,232 @@
+[
+  {
+    "id": "f705355f-7879-5e65-999a-cc5e79047120",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "direction": "inbound",
+    "body": "Waiting for the shop to open at stop 2.",
+    "quickReply": false,
+    "sentAt": "2026-09-30T08:41:00.000Z",
+    "deliveredAt": "2026-09-30T08:41:00.000Z",
+    "readAt": "2026-09-30T08:45:00.000Z"
+  },
+  {
+    "id": "a37195c9-e273-539b-b1fd-a5d96e567045",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "direction": "outbound",
+    "body": "No problem, give them 10 minutes then skip.",
+    "quickReply": false,
+    "sentAt": "2026-09-30T08:45:00.000Z",
+    "deliveredAt": "2026-09-30T08:45:00.000Z",
+    "readAt": "2026-09-30T08:52:00.000Z"
+  },
+  {
+    "id": "14a5b6d4-9611-59a6-933d-a164038a7674",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:07:00.000Z",
+    "readAt": "2026-10-01T05:13:00.000Z"
+  },
+  {
+    "id": "89199ad1-a4dd-5b11-bdd6-6c7ebf279877",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:09:00.000Z",
+    "readAt": "2026-10-01T05:43:00.000Z"
+  },
+  {
+    "id": "22f0e978-22e5-523a-a771-7c716acb4c94",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:08:00.000Z",
+    "readAt": "2026-10-01T05:20:00.000Z"
+  },
+  {
+    "id": "ae8953a4-c567-5469-95f5-7c915ee2a67a",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:08:00.000Z",
+    "readAt": "2026-10-01T05:17:00.000Z"
+  },
+  {
+    "id": "34be8c45-ca32-5b1c-8609-441d57ec1e4e",
+    "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:06:00.000Z",
+    "readAt": "2026-10-01T05:40:00.000Z"
+  },
+  {
+    "id": "037898e3-7842-57ad-83a7-15e6c2a0a5be",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:06:00.000Z",
+    "readAt": "2026-10-01T05:25:00.000Z"
+  },
+  {
+    "id": "b55114aa-6afb-5401-8ba1-f2b7160bc028",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:07:00.000Z",
+    "readAt": "2026-10-01T05:25:00.000Z"
+  },
+  {
+    "id": "05bf2b2d-5ca5-5286-b9a6-cfc7a1fa47e6",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:07:00.000Z",
+    "readAt": "2026-10-01T05:18:00.000Z"
+  },
+  {
+    "id": "b6b5b125-8cee-59a9-a94b-0792536e36c6",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:07:00.000Z",
+    "readAt": "2026-10-01T05:25:00.000Z"
+  },
+  {
+    "id": "a904e6c3-0ca9-5445-99fb-ff9e464e5a1c",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "direction": "outbound",
+    "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T05:05:00.000Z",
+    "deliveredAt": "2026-10-01T05:08:00.000Z",
+    "readAt": "2026-10-01T05:27:00.000Z"
+  },
+  {
+    "id": "b0b2417f-958d-5bfb-ac36-e69b0092248f",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "direction": "outbound",
+    "body": "Return to depot after this trip",
+    "quickReply": false,
+    "sentAt": "2026-10-01T10:02:00.000Z",
+    "deliveredAt": "2026-10-01T10:03:00.000Z",
+    "readAt": "2026-10-01T10:20:00.000Z"
+  },
+  {
+    "id": "735eac55-04a2-5838-a4e1-e393128acc6f",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "direction": "inbound",
+    "body": "OK, will do",
+    "quickReply": true,
+    "sentAt": "2026-10-01T10:20:00.000Z",
+    "deliveredAt": "2026-10-01T10:20:00.000Z",
+    "readAt": "2026-10-01T10:24:00.000Z"
+  },
+  {
+    "id": "31745a1e-6c8d-5525-b70a-48ffc07e49ab",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "direction": "inbound",
+    "body": "Done, heading to stop 5",
+    "quickReply": false,
+    "sentAt": "2026-10-01T13:05:00.000Z",
+    "deliveredAt": "2026-10-01T13:05:00.000Z",
+    "readAt": "2026-10-01T13:07:00.000Z"
+  },
+  {
+    "id": "524964fc-9ac3-504f-b2b3-14bcbdbe182f",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "direction": "outbound",
+    "body": "Please confirm the brake defect has been reported to the workshop.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T13:20:00.000Z",
+    "deliveredAt": "2026-10-01T13:20:00.000Z",
+    "readAt": "2026-10-01T13:27:00.000Z"
+  },
+  {
+    "id": "f18f9e79-2f4b-5e75-9f61-14e208872866",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "direction": "inbound",
+    "body": "Road closed on High St, taking a diversion. Stop 8 may be 10 min late.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T13:21:00.000Z",
+    "deliveredAt": "2026-10-01T13:21:00.000Z",
+    "readAt": "2026-10-01T13:22:00.000Z"
+  },
+  {
+    "id": "19d84621-0c49-51b5-b324-48434bc1bc79",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "direction": "outbound",
+    "body": "Thanks. Customer at stop 8 says use the rear entrance.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T13:22:00.000Z",
+    "deliveredAt": "2026-10-01T13:22:00.000Z",
+    "readAt": "2026-10-01T13:35:00.000Z"
+  },
+  {
+    "id": "11c4fa01-c39c-5f50-b702-b2e2b6bbceaf",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "direction": "inbound",
+    "body": "OK",
+    "quickReply": true,
+    "sentAt": "2026-10-01T13:28:00.000Z",
+    "deliveredAt": "2026-10-01T13:28:00.000Z",
+    "readAt": "2026-10-01T13:29:00.000Z"
+  },
+  {
+    "id": "40dfec91-fdbb-5a08-9637-47be0d035965",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "direction": "inbound",
+    "body": "Traffic on the A12, running about 25 min behind.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T13:30:00.000Z",
+    "deliveredAt": "2026-10-01T13:30:00.000Z",
+    "readAt": null
+  },
+  {
+    "id": "70f296c5-50f8-5e32-ac56-89c5e94fa796",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "direction": "inbound",
+    "body": "Will call the customer at the next stop.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T13:31:00.000Z",
+    "deliveredAt": "2026-10-01T13:31:00.000Z",
+    "readAt": null
+  },
+  {
+    "id": "cd39a3ec-7de0-50bb-99ed-4df5c721c1ee",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "direction": "inbound",
+    "body": "OK, will do",
+    "quickReply": true,
+    "sentAt": "2026-10-01T13:35:00.000Z",
+    "deliveredAt": "2026-10-01T13:35:00.000Z",
+    "readAt": null
+  },
+  {
+    "id": "64426923-09f5-5d8f-9ef7-e05524bbcf8a",
+    "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
+    "direction": "outbound",
+    "body": "Your end-of-day upload failed. Please retry when you're back on depot wifi.",
+    "quickReply": false,
+    "sentAt": "2026-10-01T13:40:00.000Z",
+    "deliveredAt": "2026-10-01T13:41:00.000Z",
+    "readAt": null
+  }
+]
