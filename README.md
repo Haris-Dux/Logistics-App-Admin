@@ -50,7 +50,7 @@ src/routes/           TanStack file routes with zod-validated search params
 
 ## Mock API
 
-`pnpm mock` serves every `mock/data/<resource>.json` file as `/api/<resource>` using json-server 0.17 (filters, `_gte`/`_lte`, `q` full-text search, `_expand`/`_embed`). On start it moves the dataset so its anchor day (`2026-10-01`) is today. Clock times are not shifted, so "last seen" ages only look realistic around 14:45 UK time. Data is held in memory and resets on restart.
+`pnpm mock` serves every `mock/data/<resource>.json` file as `/api/<resource>` using json-server 0.17 (filters, `_gte`/`_lte`, `q` full-text search, `_expand`/`_embed`). On start it moves the dataset so its anchor day (`2026-10-06`) is today. Clock times are not shifted, so "last seen" ages only look realistic around 14:45 UK time. Data is held in memory and resets on restart.
 
 The mock adds `POST /api/auth/login` and fills in the fields a real backend sets on create. A few endpoints a real backend would offer are composed on the client for now. Each lives in a single function in `src/api`:
 

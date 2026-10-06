@@ -11,7 +11,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const PORT = Number(process.env.MOCK_PORT ?? 4000)
-const ANCHOR_DATE = '2026-10-01' // the day the dataset describes as "today"
+const ANCHOR_DATE = '2026-10-06' // the day the dataset describes as "today"
 const DATE = /^\d{4}-\d{2}-\d{2}$/
 const DATE_TIME = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?Z$/
 const SECRET_FIELDS = ['password']

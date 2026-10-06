@@ -1,12 +1,12 @@
 [
   {
     "id": "87a3d9a1-5afe-5b16-b4f0-cddb85d933cf",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "west-london",
     "shiftId": "d9bd2511-1869-555a-9e5d-f71f4056d245",
     "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
     "driverId": "86dba809-f666-4545-9598-462bdca1059b",
-    "checkedAt": "2026-09-25T04:31:10.000Z",
+    "checkedAt": "2026-09-30T04:31:10.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -56,12 +56,12 @@
   },
   {
     "id": "da42983a-7094-557b-9b96-217434ef04d1",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "thames-valley",
     "shiftId": "3b667746-8d28-52df-8e84-96e759830bcf",
     "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
     "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "checkedAt": "2026-09-25T04:31:50.000Z",
+    "checkedAt": "2026-09-30T04:31:50.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -111,12 +111,12 @@
   },
   {
     "id": "02414711-c222-56df-b2a2-bf0b822c5565",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "north-london",
     "shiftId": "80b58c74-0f81-5bbc-82f3-f32dafd514b2",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "checkedAt": "2026-09-25T04:29:09.000Z",
+    "checkedAt": "2026-09-30T04:29:09.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -166,12 +166,12 @@
   },
   {
     "id": "8152cce7-2cab-5e73-b90a-4c5d5e41b93e",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "west-london",
     "shiftId": "d698ca2b-c7cc-59c4-8662-f473d477a28d",
     "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
     "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
-    "checkedAt": "2026-09-25T04:18:01.000Z",
+    "checkedAt": "2026-09-30T04:18:01.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -221,12 +221,12 @@
   },
   {
     "id": "a615396b-fb28-5cc1-887f-8d9025cd9d7b",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "thames-valley",
     "shiftId": "8e218b39-b196-5c70-9c80-8b3e8b5fffff",
     "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
     "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
-    "checkedAt": "2026-09-25T04:20:58.000Z",
+    "checkedAt": "2026-09-30T04:20:58.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -276,12 +276,12 @@
   },
   {
     "id": "602445dc-a0a6-55eb-9ecf-8dbf223b8f84",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "north-london",
     "shiftId": "8e1f4065-cfc6-5134-acb2-ed52d26ef564",
     "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
     "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "checkedAt": "2026-09-25T04:19:48.000Z",
+    "checkedAt": "2026-09-30T04:19:48.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -331,12 +331,12 @@
   },
   {
     "id": "9d21d17e-029b-5229-8f91-4a983b20286c",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "west-london",
     "shiftId": "facdaac3-833b-55b1-ba68-944add243c24",
     "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
     "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "checkedAt": "2026-09-25T03:50:11.000Z",
+    "checkedAt": "2026-09-30T03:50:11.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -386,12 +386,12 @@
   },
   {
     "id": "0c70f825-e8cf-52a3-81df-a7729ea700d2",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "thames-valley",
     "shiftId": "45fcde47-cddb-57db-8721-8d6a5a30ef7b",
     "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
     "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "checkedAt": "2026-09-25T03:24:13.000Z",
+    "checkedAt": "2026-09-30T03:24:13.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -441,12 +441,12 @@
   },
   {
     "id": "9501521d-4d3c-575d-bb96-e3cd568a8835",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "north-london",
     "shiftId": "2598bc7c-0258-5962-a189-8d958e35e246",
     "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
     "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "checkedAt": "2026-09-25T02:48:58.000Z",
+    "checkedAt": "2026-09-30T02:48:58.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -496,12 +496,12 @@
   },
   {
     "id": "fe96ac56-d197-5dd0-90b6-ea5fd7867b91",
-    "date": "2026-09-25",
+    "date": "2026-09-30",
     "depotId": "west-london",
     "shiftId": "8e372cfe-0148-5c94-8905-091ca32a370b",
     "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
     "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "checkedAt": "2026-09-25T04:06:22.000Z",
+    "checkedAt": "2026-09-30T04:06:22.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -551,12 +551,12 @@
   },
   {
     "id": "d7183f1f-95d0-51e9-8084-78c2a48cb4ef",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "west-london",
     "shiftId": "0939f36c-1243-5c33-9ba6-5a305c57e4e5",
     "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
     "driverId": "86dba809-f666-4545-9598-462bdca1059b",
-    "checkedAt": "2026-09-26T04:23:18.000Z",
+    "checkedAt": "2026-10-01T04:23:18.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -606,12 +606,12 @@
   },
   {
     "id": "d65bbcb4-395a-58d3-8a66-daaddf468fb5",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "thames-valley",
     "shiftId": "fbc52488-b2db-58a9-a16b-c704ba35bae6",
     "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
     "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "checkedAt": "2026-09-26T04:25:44.000Z",
+    "checkedAt": "2026-10-01T04:25:44.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -661,12 +661,12 @@
   },
   {
     "id": "654967ce-0430-5577-ac9f-132cc1b9ff23",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "north-london",
     "shiftId": "335f21d6-3808-5045-b999-b4c73197336f",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "checkedAt": "2026-09-26T04:34:48.000Z",
+    "checkedAt": "2026-10-01T04:34:48.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -716,12 +716,12 @@
   },
   {
     "id": "35527914-a1ea-53e0-a4d1-95191d37a9bb",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "west-london",
     "shiftId": "7b58d5c9-20ee-5852-baa2-c529ec348107",
     "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
     "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
-    "checkedAt": "2026-09-26T04:16:09.000Z",
+    "checkedAt": "2026-10-01T04:16:09.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -771,12 +771,12 @@
   },
   {
     "id": "634fc8f0-a9c4-5d0a-aa01-d93d0070d301",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "thames-valley",
     "shiftId": "a4c9571e-4fe2-5650-8fa3-b4656f73bbbd",
     "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
     "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
-    "checkedAt": "2026-09-26T04:16:17.000Z",
+    "checkedAt": "2026-10-01T04:16:17.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -826,12 +826,12 @@
   },
   {
     "id": "7f765513-734b-56cd-860f-d669a1613123",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "north-london",
     "shiftId": "4acf046b-1dca-5565-b4b2-179208f14491",
     "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
     "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "checkedAt": "2026-09-26T04:20:32.000Z",
+    "checkedAt": "2026-10-01T04:20:32.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -881,12 +881,12 @@
   },
   {
     "id": "786e3b9b-3da2-55b4-a67e-b59e6a756a6d",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "west-london",
     "shiftId": "34b1b6ba-b1c4-559c-834a-ffb43ed01d92",
     "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
     "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "checkedAt": "2026-09-26T03:50:01.000Z",
+    "checkedAt": "2026-10-01T03:50:01.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -936,12 +936,12 @@
   },
   {
     "id": "8c2ee9b1-0ea3-549e-8551-c7c339ef414b",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "thames-valley",
     "shiftId": "5bd2f645-d243-58c7-8833-58998ef4fa12",
     "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
     "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "checkedAt": "2026-09-26T03:24:59.000Z",
+    "checkedAt": "2026-10-01T03:24:59.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -991,12 +991,12 @@
   },
   {
     "id": "d8141a24-b8e9-5695-870b-8bb4755bfecf",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "north-london",
     "shiftId": "931cf582-4210-58be-8604-42d3c6f94f5c",
     "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
     "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "checkedAt": "2026-09-26T02:48:03.000Z",
+    "checkedAt": "2026-10-01T02:48:03.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1046,12 +1046,12 @@
   },
   {
     "id": "b3a86de8-c6d7-5aa9-a1c1-dc858fdb0bb1",
-    "date": "2026-09-26",
+    "date": "2026-10-01",
     "depotId": "west-london",
     "shiftId": "076c252c-8993-5587-87ce-0d09f4642caa",
     "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
     "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "checkedAt": "2026-09-26T04:05:31.000Z",
+    "checkedAt": "2026-10-01T04:05:31.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1101,12 +1101,12 @@
   },
   {
     "id": "817fd083-1ad2-50fb-bb16-6192583ca1e5",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "west-london",
     "shiftId": "cf12089a-33ab-5ef1-a2a1-1e2de2da6adf",
     "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
     "driverId": "86dba809-f666-4545-9598-462bdca1059b",
-    "checkedAt": "2026-09-27T04:23:02.000Z",
+    "checkedAt": "2026-10-02T04:23:02.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1156,12 +1156,12 @@
   },
   {
     "id": "265af1a3-3c2d-5522-ad26-c1c508c79124",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "thames-valley",
     "shiftId": "82ddc637-8aaa-5ebf-bc14-aabb14a9da09",
     "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
     "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "checkedAt": "2026-09-27T04:33:47.000Z",
+    "checkedAt": "2026-10-02T04:33:47.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1211,12 +1211,12 @@
   },
   {
     "id": "b02adb42-4781-5aaa-911d-d090d3f2d42d",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "north-london",
     "shiftId": "ba43a311-c650-59b1-a644-a21ac29bf126",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "checkedAt": "2026-09-27T04:30:29.000Z",
+    "checkedAt": "2026-10-02T04:30:29.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1266,12 +1266,12 @@
   },
   {
     "id": "6aecc29e-0003-5789-b650-a17729e5a6d8",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "west-london",
     "shiftId": "e7e2019c-fab4-5637-9545-45b064430704",
     "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
     "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
-    "checkedAt": "2026-09-27T04:15:06.000Z",
+    "checkedAt": "2026-10-02T04:15:06.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1321,12 +1321,12 @@
   },
   {
     "id": "e5dd8118-6033-5319-94f4-4705530fc911",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "thames-valley",
     "shiftId": "65687e9c-f65c-5d93-85b7-13383f232e3c",
     "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
     "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
-    "checkedAt": "2026-09-27T04:13:11.000Z",
+    "checkedAt": "2026-10-02T04:13:11.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1376,12 +1376,12 @@
   },
   {
     "id": "b72ed2ff-dd08-5396-8d55-c834606c855a",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "north-london",
     "shiftId": "2c21850f-affa-50de-a490-fa9476290ee6",
     "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
     "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "checkedAt": "2026-09-27T04:19:04.000Z",
+    "checkedAt": "2026-10-02T04:19:04.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1431,12 +1431,12 @@
   },
   {
     "id": "93a9ac1d-5a2c-5e35-bb1e-594c170e01a7",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "west-london",
     "shiftId": "1d89bcdb-46bb-53bc-9f70-fe5e0a36d5d7",
     "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
     "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "checkedAt": "2026-09-27T03:44:49.000Z",
+    "checkedAt": "2026-10-02T03:44:49.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1486,12 +1486,12 @@
   },
   {
     "id": "63e6bd54-cd73-5244-8599-1628066ea03b",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "thames-valley",
     "shiftId": "0a71e726-f6c6-5727-95d4-72858e36a599",
     "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
     "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "checkedAt": "2026-09-27T03:27:43.000Z",
+    "checkedAt": "2026-10-02T03:27:43.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1541,12 +1541,12 @@
   },
   {
     "id": "1b708617-949f-5f18-8dfb-3ec158c0e428",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "north-london",
     "shiftId": "83314968-730b-5167-a816-470b4d3160d3",
     "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
     "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "checkedAt": "2026-09-27T02:51:03.000Z",
+    "checkedAt": "2026-10-02T02:51:03.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1596,12 +1596,12 @@
   },
   {
     "id": "feac1434-c48e-544a-aa4a-68e1da95df06",
-    "date": "2026-09-27",
+    "date": "2026-10-02",
     "depotId": "west-london",
     "shiftId": "951e2327-e79d-5fc7-93ea-babfd53d74b0",
     "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
     "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "checkedAt": "2026-09-27T04:10:46.000Z",
+    "checkedAt": "2026-10-02T04:10:46.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1651,12 +1651,12 @@
   },
   {
     "id": "cc17f1c5-29eb-59b1-bf41-484f14b6af61",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "west-london",
     "shiftId": "0b1276f4-99fa-51e5-befb-e693d2d0f2f2",
     "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
     "driverId": "86dba809-f666-4545-9598-462bdca1059b",
-    "checkedAt": "2026-09-28T04:25:29.000Z",
+    "checkedAt": "2026-10-03T04:25:29.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1706,12 +1706,12 @@
   },
   {
     "id": "97f87986-387c-5644-94d8-1f58ac0dc528",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "thames-valley",
     "shiftId": "61ea6c7a-ca68-5daf-a4c6-3d428597e7c2",
     "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
     "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "checkedAt": "2026-09-28T04:28:19.000Z",
+    "checkedAt": "2026-10-03T04:28:19.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1761,12 +1761,12 @@
   },
   {
     "id": "b78021f0-6eab-5ee9-b5a5-b8a2205587c0",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "north-london",
     "shiftId": "e7baa649-cd55-5d7d-bdbf-44a317c114f1",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "checkedAt": "2026-09-28T04:22:59.000Z",
+    "checkedAt": "2026-10-03T04:22:59.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1816,12 +1816,12 @@
   },
   {
     "id": "e421bf34-9026-584f-8140-ac22fc48be3c",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "west-london",
     "shiftId": "84b8cb99-031d-58d7-a323-71d0659b1e4e",
     "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
     "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
-    "checkedAt": "2026-09-28T04:11:02.000Z",
+    "checkedAt": "2026-10-03T04:11:02.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1871,12 +1871,12 @@
   },
   {
     "id": "952fe5d7-a727-516a-8d50-0e24b51031f5",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "thames-valley",
     "shiftId": "f90c40d2-01f2-552f-af87-39b15038a39d",
     "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
     "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
-    "checkedAt": "2026-09-28T04:12:48.000Z",
+    "checkedAt": "2026-10-03T04:12:48.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1926,12 +1926,12 @@
   },
   {
     "id": "fd6970c8-f315-5417-a132-0e562d894482",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "north-london",
     "shiftId": "226addc5-d814-53be-b305-a2a28e78597c",
     "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
     "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "checkedAt": "2026-09-28T04:15:44.000Z",
+    "checkedAt": "2026-10-03T04:15:44.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -1981,12 +1981,12 @@
   },
   {
     "id": "ca1e8ac3-e76a-5690-890b-0d91540f48f9",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "west-london",
     "shiftId": "4122b895-4687-597c-bd8f-c9f9a3aefb13",
     "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
     "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "checkedAt": "2026-09-28T03:45:07.000Z",
+    "checkedAt": "2026-10-03T03:45:07.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2036,12 +2036,12 @@
   },
   {
     "id": "f0628241-3f53-5a7d-90a8-3d08e9afe4e8",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "thames-valley",
     "shiftId": "ceff47f7-07a3-56b8-ae9e-184960de5ace",
     "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
     "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "checkedAt": "2026-09-28T03:21:06.000Z",
+    "checkedAt": "2026-10-03T03:21:06.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2091,12 +2091,12 @@
   },
   {
     "id": "746d53a8-4b7d-5cca-801e-ab9a13ede2d9",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "north-london",
     "shiftId": "fb946245-d0a6-59ef-ac53-0d7e7bc85cc1",
     "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
     "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "checkedAt": "2026-09-28T02:43:21.000Z",
+    "checkedAt": "2026-10-03T02:43:21.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2146,12 +2146,12 @@
   },
   {
     "id": "4814622c-925e-5e3b-9474-d74f5e33af18",
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "depotId": "west-london",
     "shiftId": "92b7a47c-fda7-5ad6-855d-c58a2b7369d5",
     "vehicleId": "d24d05a0-eb70-503d-96ec-c6cbb4a53577",
     "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "checkedAt": "2026-09-28T04:03:14.000Z",
+    "checkedAt": "2026-10-03T04:03:14.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2203,12 +2203,12 @@
   },
   {
     "id": "636f06d0-7b76-5793-90eb-b914bea64cdb",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "west-london",
     "shiftId": "c1c02652-f017-53a1-b422-b72b8968fd5a",
     "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
     "driverId": "86dba809-f666-4545-9598-462bdca1059b",
-    "checkedAt": "2026-09-29T04:27:45.000Z",
+    "checkedAt": "2026-10-04T04:27:45.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2258,12 +2258,12 @@
   },
   {
     "id": "e6b4aba3-680b-5588-b38e-c16bfb43c2cc",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "thames-valley",
     "shiftId": "48bba588-43ee-5774-a536-653d6d78627a",
     "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
     "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "checkedAt": "2026-09-29T04:23:08.000Z",
+    "checkedAt": "2026-10-04T04:23:08.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2313,12 +2313,12 @@
   },
   {
     "id": "ade5a14d-7de3-57ad-bb46-42b651024c04",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "north-london",
     "shiftId": "38b80bb1-2b1d-597e-a612-3a1dfc20419c",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "checkedAt": "2026-09-29T04:26:10.000Z",
+    "checkedAt": "2026-10-04T04:26:10.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2368,12 +2368,12 @@
   },
   {
     "id": "721c93cf-78a1-5c32-bca8-2a0c2512d5b4",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "west-london",
     "shiftId": "ed759d84-b1aa-5ad4-a812-6149fa2dc3e9",
     "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
     "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
-    "checkedAt": "2026-09-29T04:07:23.000Z",
+    "checkedAt": "2026-10-04T04:07:23.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2423,12 +2423,12 @@
   },
   {
     "id": "42d9dcc9-69fa-54a1-9b2c-5ed502479611",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "thames-valley",
     "shiftId": "b48fdf86-641f-5065-9933-e5eb5caad0c1",
     "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
     "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
-    "checkedAt": "2026-09-29T04:15:14.000Z",
+    "checkedAt": "2026-10-04T04:15:14.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2478,12 +2478,12 @@
   },
   {
     "id": "cd74fb46-5187-5b66-9cda-c7b0c53252ba",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "north-london",
     "shiftId": "3016eb8b-325c-5e24-9ff7-964ce706cbc7",
     "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
     "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "checkedAt": "2026-09-29T04:19:55.000Z",
+    "checkedAt": "2026-10-04T04:19:55.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2533,12 +2533,12 @@
   },
   {
     "id": "9790d1fe-421c-566e-bba7-035831360eb4",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "west-london",
     "shiftId": "b87bec46-0341-522f-b381-d90ec8dcb337",
     "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
     "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "checkedAt": "2026-09-29T03:44:21.000Z",
+    "checkedAt": "2026-10-04T03:44:21.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2588,12 +2588,12 @@
   },
   {
     "id": "f0ee96c9-83a1-5689-a7c5-61c19fb02129",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "thames-valley",
     "shiftId": "7ee12779-c647-5e44-abaf-531cc22d5d05",
     "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
     "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "checkedAt": "2026-09-29T03:18:16.000Z",
+    "checkedAt": "2026-10-04T03:18:16.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2642,19 +2642,19 @@
     ],
     "defectStatus": "repaired",
     "repair": {
-      "repairedAt": "2026-09-29T10:30:00.000Z",
+      "repairedAt": "2026-10-04T10:30:00.000Z",
       "notes": "Tyre replaced at Kwik Fit Romford",
       "recordedBy": "Hannah Clarke"
     }
   },
   {
     "id": "a5cd1206-2891-54d9-9f39-76a0513a14a9",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "north-london",
     "shiftId": "0d10b557-304c-5924-be32-87cbf726ff73",
     "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
     "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "checkedAt": "2026-09-29T02:42:53.000Z",
+    "checkedAt": "2026-10-04T02:42:53.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2704,12 +2704,12 @@
   },
   {
     "id": "f44b228a-6c49-53c4-a5f7-05d16c44d92a",
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "depotId": "west-london",
     "shiftId": "9f761fd9-893b-5f53-91de-62ec67ab934c",
     "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
     "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "checkedAt": "2026-09-29T04:06:21.000Z",
+    "checkedAt": "2026-10-04T04:06:21.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2759,12 +2759,12 @@
   },
   {
     "id": "249b7f4c-aa8e-5ad4-afc0-f8c012a0326f",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "west-london",
     "shiftId": "787b5a01-e702-5a48-99a5-a28c24a42959",
     "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
     "driverId": "86dba809-f666-4545-9598-462bdca1059b",
-    "checkedAt": "2026-09-30T04:28:58.000Z",
+    "checkedAt": "2026-10-05T04:28:58.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2814,12 +2814,12 @@
   },
   {
     "id": "dc40d87a-47f8-537f-b5ed-eff969554f69",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "thames-valley",
     "shiftId": "f5da8d9f-f8a4-50ea-9c32-8552a7eed66a",
     "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
     "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "checkedAt": "2026-09-30T04:30:59.000Z",
+    "checkedAt": "2026-10-05T04:30:59.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2869,12 +2869,12 @@
   },
   {
     "id": "da0b3daf-fed4-52c2-b7e3-d153770a65e6",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "north-london",
     "shiftId": "ee6a2861-0e00-583c-aa19-d8884e3d520d",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "checkedAt": "2026-09-30T04:30:10.000Z",
+    "checkedAt": "2026-10-05T04:30:10.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2924,12 +2924,12 @@
   },
   {
     "id": "fdab113d-d43d-5655-991d-6277661862c9",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "west-london",
     "shiftId": "f890e1b1-f53f-5a1b-8165-f880d27201bc",
     "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
     "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
-    "checkedAt": "2026-09-30T04:11:44.000Z",
+    "checkedAt": "2026-10-05T04:11:44.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -2979,12 +2979,12 @@
   },
   {
     "id": "31ebb54c-d022-5776-9ad8-ec1b91c6c54e",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "thames-valley",
     "shiftId": "b9eb68fb-22b8-58f6-9605-229f33912591",
     "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
     "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
-    "checkedAt": "2026-09-30T04:21:10.000Z",
+    "checkedAt": "2026-10-05T04:21:10.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3034,12 +3034,12 @@
   },
   {
     "id": "b80bed97-519b-58e0-b471-b4ac021711b4",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "north-london",
     "shiftId": "06eedd1d-1cdb-56d6-ab22-42841da8f944",
     "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
     "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "checkedAt": "2026-09-30T04:16:37.000Z",
+    "checkedAt": "2026-10-05T04:16:37.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3089,12 +3089,12 @@
   },
   {
     "id": "7e261545-ab5e-5518-8235-044aec03d880",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "west-london",
     "shiftId": "ddcc437f-0067-5928-bb0d-ae8f128db69a",
     "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
     "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "checkedAt": "2026-09-30T03:49:34.000Z",
+    "checkedAt": "2026-10-05T03:49:34.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3144,12 +3144,12 @@
   },
   {
     "id": "15045acf-af56-5c62-987c-6a40da625a9d",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "thames-valley",
     "shiftId": "89950304-c956-5908-882c-a63988a49d8e",
     "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
     "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "checkedAt": "2026-09-30T03:26:44.000Z",
+    "checkedAt": "2026-10-05T03:26:44.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3199,12 +3199,12 @@
   },
   {
     "id": "f64433ef-f879-5c69-b5b9-1e8a0281f14a",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "north-london",
     "shiftId": "aeae931e-fb8a-5434-bbfc-1f90d1d3ab41",
     "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
     "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "checkedAt": "2026-09-30T02:49:25.000Z",
+    "checkedAt": "2026-10-05T02:49:25.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3254,12 +3254,12 @@
   },
   {
     "id": "209414f7-44b6-5667-84ee-fd7fa7966626",
-    "date": "2026-09-30",
+    "date": "2026-10-05",
     "depotId": "west-london",
     "shiftId": "d3b8327d-319f-576c-b865-7cf1a95c0283",
     "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
     "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "checkedAt": "2026-09-30T04:05:19.000Z",
+    "checkedAt": "2026-10-05T04:05:19.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3309,12 +3309,12 @@
   },
   {
     "id": "ab9acf4a-bae1-59e1-af28-f013bb253ecd",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "west-london",
     "shiftId": "4610d4e2-9a24-5b64-86ef-222e4750b6ce",
     "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
     "driverId": "86dba809-f666-4545-9598-462bdca1059b",
-    "checkedAt": "2026-10-01T04:31:19.000Z",
+    "checkedAt": "2026-10-06T04:31:19.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3364,12 +3364,12 @@
   },
   {
     "id": "7f8e08ad-550a-54ed-b13d-b322da42fb9a",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "thames-valley",
     "shiftId": "d8cee17b-9e13-59cc-a652-b89133785cfb",
     "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
     "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "checkedAt": "2026-10-01T04:26:15.000Z",
+    "checkedAt": "2026-10-06T04:26:15.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3419,12 +3419,12 @@
   },
   {
     "id": "d52d84db-481f-579b-8040-5f5621d4cd7a",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "north-london",
     "shiftId": "7203d356-1c31-535c-bd33-59cb252953cd",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "checkedAt": "2026-10-01T04:26:53.000Z",
+    "checkedAt": "2026-10-06T04:26:53.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3474,12 +3474,12 @@
   },
   {
     "id": "5ce0b267-b1f7-5b1b-81f0-54fc1696aca0",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "west-london",
     "shiftId": "887cd979-6e9e-5ace-97d0-c169edfcf566",
     "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
     "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
-    "checkedAt": "2026-10-01T04:11:56.000Z",
+    "checkedAt": "2026-10-06T04:11:56.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3529,12 +3529,12 @@
   },
   {
     "id": "d7397ec7-4ff4-5f32-aa80-e956c186ca13",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "thames-valley",
     "shiftId": "a951fa0a-0b38-5dfb-aec3-c5eb98f91cbe",
     "vehicleId": "c74e8ff0-a9e3-4d43-9baa-dedd3399dc7d",
     "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
-    "checkedAt": "2026-10-01T04:18:15.000Z",
+    "checkedAt": "2026-10-06T04:18:15.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3584,12 +3584,12 @@
   },
   {
     "id": "8a5808a4-cbe3-5f00-b5b4-844a1bdcb185",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "north-london",
     "shiftId": "ffbd521e-f289-563e-92f3-fa4e608e422e",
     "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
     "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "checkedAt": "2026-10-01T04:16:00.000Z",
+    "checkedAt": "2026-10-06T04:16:00.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3642,12 +3642,12 @@
   },
   {
     "id": "6c38670f-aa65-5279-a4ec-784b99312223",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "west-london",
     "shiftId": "0ed054d1-3d2e-5212-ab9c-a00f239ee453",
     "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
     "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "checkedAt": "2026-10-01T03:48:29.000Z",
+    "checkedAt": "2026-10-06T03:48:29.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3697,12 +3697,12 @@
   },
   {
     "id": "a20072a9-7b62-5429-8e32-da879194fa65",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "thames-valley",
     "shiftId": "71a7033f-c923-5a35-b69b-d8a6d2d7ad42",
     "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
     "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "checkedAt": "2026-10-01T03:24:40.000Z",
+    "checkedAt": "2026-10-06T03:24:40.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3752,12 +3752,12 @@
   },
   {
     "id": "ecb0e6e6-00fa-5bda-9547-b89cc5d2d47b",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "north-london",
     "shiftId": "507ee03a-48cc-53fc-965b-854ccb42d40f",
     "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
     "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "checkedAt": "2026-10-01T02:44:56.000Z",
+    "checkedAt": "2026-10-06T02:44:56.000Z",
     "items": [
       {
         "type": "tyre_pressure",
@@ -3807,12 +3807,12 @@
   },
   {
     "id": "328fbfb1-8bbe-5b4c-ad74-7f1b6050107d",
-    "date": "2026-10-01",
+    "date": "2026-10-06",
     "depotId": "west-london",
     "shiftId": "3123e69f-b643-565e-a013-41b3d03de06e",
     "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
     "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "checkedAt": "2026-10-01T04:06:52.000Z",
+    "checkedAt": "2026-10-06T04:06:52.000Z",
     "items": [
       {
         "type": "tyre_pressure",

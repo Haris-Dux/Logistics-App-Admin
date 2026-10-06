@@ -5,9 +5,9 @@
     "direction": "inbound",
     "body": "Waiting for the shop to open at stop 2.",
     "quickReply": false,
-    "sentAt": "2026-09-30T08:41:00.000Z",
-    "deliveredAt": "2026-09-30T08:41:00.000Z",
-    "readAt": "2026-09-30T08:45:00.000Z"
+    "sentAt": "2026-10-05T08:41:00.000Z",
+    "deliveredAt": "2026-10-05T08:41:00.000Z",
+    "readAt": "2026-10-05T08:45:00.000Z"
   },
   {
     "id": "a37195c9-e273-539b-b1fd-a5d96e567045",
@@ -15,9 +15,9 @@
     "direction": "outbound",
     "body": "No problem, give them 10 minutes then skip.",
     "quickReply": false,
-    "sentAt": "2026-09-30T08:45:00.000Z",
-    "deliveredAt": "2026-09-30T08:45:00.000Z",
-    "readAt": "2026-09-30T08:52:00.000Z"
+    "sentAt": "2026-10-05T08:45:00.000Z",
+    "deliveredAt": "2026-10-05T08:45:00.000Z",
+    "readAt": "2026-10-05T08:52:00.000Z"
   },
   {
     "id": "14a5b6d4-9611-59a6-933d-a164038a7674",
@@ -25,9 +25,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:07:00.000Z",
-    "readAt": "2026-10-01T05:13:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:07:00.000Z",
+    "readAt": "2026-10-06T05:13:00.000Z"
   },
   {
     "id": "89199ad1-a4dd-5b11-bdd6-6c7ebf279877",
@@ -35,9 +35,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:09:00.000Z",
-    "readAt": "2026-10-01T05:43:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:09:00.000Z",
+    "readAt": "2026-10-06T05:43:00.000Z"
   },
   {
     "id": "22f0e978-22e5-523a-a771-7c716acb4c94",
@@ -45,9 +45,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:08:00.000Z",
-    "readAt": "2026-10-01T05:20:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:08:00.000Z",
+    "readAt": "2026-10-06T05:20:00.000Z"
   },
   {
     "id": "ae8953a4-c567-5469-95f5-7c915ee2a67a",
@@ -55,9 +55,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:08:00.000Z",
-    "readAt": "2026-10-01T05:17:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:08:00.000Z",
+    "readAt": "2026-10-06T05:17:00.000Z"
   },
   {
     "id": "34be8c45-ca32-5b1c-8609-441d57ec1e4e",
@@ -65,9 +65,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:06:00.000Z",
-    "readAt": "2026-10-01T05:40:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:06:00.000Z",
+    "readAt": "2026-10-06T05:40:00.000Z"
   },
   {
     "id": "037898e3-7842-57ad-83a7-15e6c2a0a5be",
@@ -75,9 +75,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:06:00.000Z",
-    "readAt": "2026-10-01T05:25:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:06:00.000Z",
+    "readAt": "2026-10-06T05:25:00.000Z"
   },
   {
     "id": "b55114aa-6afb-5401-8ba1-f2b7160bc028",
@@ -85,9 +85,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:07:00.000Z",
-    "readAt": "2026-10-01T05:25:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:07:00.000Z",
+    "readAt": "2026-10-06T05:25:00.000Z"
   },
   {
     "id": "05bf2b2d-5ca5-5286-b9a6-cfc7a1fa47e6",
@@ -95,9 +95,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:07:00.000Z",
-    "readAt": "2026-10-01T05:18:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:07:00.000Z",
+    "readAt": "2026-10-06T05:18:00.000Z"
   },
   {
     "id": "b6b5b125-8cee-59a9-a94b-0792536e36c6",
@@ -105,9 +105,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:07:00.000Z",
-    "readAt": "2026-10-01T05:25:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:07:00.000Z",
+    "readAt": "2026-10-06T05:25:00.000Z"
   },
   {
     "id": "a904e6c3-0ca9-5445-99fb-ff9e464e5a1c",
@@ -115,9 +115,9 @@
     "direction": "outbound",
     "body": "Good morning all. A40 westbound is closed at Hanger Lane until 10:00, please plan around it.",
     "quickReply": false,
-    "sentAt": "2026-10-01T05:05:00.000Z",
-    "deliveredAt": "2026-10-01T05:08:00.000Z",
-    "readAt": "2026-10-01T05:27:00.000Z"
+    "sentAt": "2026-10-06T05:05:00.000Z",
+    "deliveredAt": "2026-10-06T05:08:00.000Z",
+    "readAt": "2026-10-06T05:27:00.000Z"
   },
   {
     "id": "b0b2417f-958d-5bfb-ac36-e69b0092248f",
@@ -125,9 +125,9 @@
     "direction": "outbound",
     "body": "Return to depot after this trip",
     "quickReply": false,
-    "sentAt": "2026-10-01T10:02:00.000Z",
-    "deliveredAt": "2026-10-01T10:03:00.000Z",
-    "readAt": "2026-10-01T10:20:00.000Z"
+    "sentAt": "2026-10-06T10:02:00.000Z",
+    "deliveredAt": "2026-10-06T10:03:00.000Z",
+    "readAt": "2026-10-06T10:20:00.000Z"
   },
   {
     "id": "735eac55-04a2-5838-a4e1-e393128acc6f",
@@ -135,9 +135,9 @@
     "direction": "inbound",
     "body": "OK, will do",
     "quickReply": true,
-    "sentAt": "2026-10-01T10:20:00.000Z",
-    "deliveredAt": "2026-10-01T10:20:00.000Z",
-    "readAt": "2026-10-01T10:24:00.000Z"
+    "sentAt": "2026-10-06T10:20:00.000Z",
+    "deliveredAt": "2026-10-06T10:20:00.000Z",
+    "readAt": "2026-10-06T10:24:00.000Z"
   },
   {
     "id": "31745a1e-6c8d-5525-b70a-48ffc07e49ab",
@@ -145,9 +145,9 @@
     "direction": "inbound",
     "body": "Done, heading to stop 5",
     "quickReply": false,
-    "sentAt": "2026-10-01T13:05:00.000Z",
-    "deliveredAt": "2026-10-01T13:05:00.000Z",
-    "readAt": "2026-10-01T13:07:00.000Z"
+    "sentAt": "2026-10-06T13:05:00.000Z",
+    "deliveredAt": "2026-10-06T13:05:00.000Z",
+    "readAt": "2026-10-06T13:07:00.000Z"
   },
   {
     "id": "524964fc-9ac3-504f-b2b3-14bcbdbe182f",
@@ -155,9 +155,9 @@
     "direction": "outbound",
     "body": "Please confirm the brake defect has been reported to the workshop.",
     "quickReply": false,
-    "sentAt": "2026-10-01T13:20:00.000Z",
-    "deliveredAt": "2026-10-01T13:20:00.000Z",
-    "readAt": "2026-10-01T13:27:00.000Z"
+    "sentAt": "2026-10-06T13:20:00.000Z",
+    "deliveredAt": "2026-10-06T13:20:00.000Z",
+    "readAt": "2026-10-06T13:27:00.000Z"
   },
   {
     "id": "f18f9e79-2f4b-5e75-9f61-14e208872866",
@@ -165,9 +165,9 @@
     "direction": "inbound",
     "body": "Road closed on High St, taking a diversion. Stop 8 may be 10 min late.",
     "quickReply": false,
-    "sentAt": "2026-10-01T13:21:00.000Z",
-    "deliveredAt": "2026-10-01T13:21:00.000Z",
-    "readAt": "2026-10-01T13:22:00.000Z"
+    "sentAt": "2026-10-06T13:21:00.000Z",
+    "deliveredAt": "2026-10-06T13:21:00.000Z",
+    "readAt": "2026-10-06T13:22:00.000Z"
   },
   {
     "id": "19d84621-0c49-51b5-b324-48434bc1bc79",
@@ -175,9 +175,9 @@
     "direction": "outbound",
     "body": "Thanks. Customer at stop 8 says use the rear entrance.",
     "quickReply": false,
-    "sentAt": "2026-10-01T13:22:00.000Z",
-    "deliveredAt": "2026-10-01T13:22:00.000Z",
-    "readAt": "2026-10-01T13:35:00.000Z"
+    "sentAt": "2026-10-06T13:22:00.000Z",
+    "deliveredAt": "2026-10-06T13:22:00.000Z",
+    "readAt": "2026-10-06T13:35:00.000Z"
   },
   {
     "id": "11c4fa01-c39c-5f50-b702-b2e2b6bbceaf",
@@ -185,9 +185,9 @@
     "direction": "inbound",
     "body": "OK",
     "quickReply": true,
-    "sentAt": "2026-10-01T13:28:00.000Z",
-    "deliveredAt": "2026-10-01T13:28:00.000Z",
-    "readAt": "2026-10-01T13:29:00.000Z"
+    "sentAt": "2026-10-06T13:28:00.000Z",
+    "deliveredAt": "2026-10-06T13:28:00.000Z",
+    "readAt": "2026-10-06T13:29:00.000Z"
   },
   {
     "id": "40dfec91-fdbb-5a08-9637-47be0d035965",
@@ -195,8 +195,8 @@
     "direction": "inbound",
     "body": "Traffic on the A12, running about 25 min behind.",
     "quickReply": false,
-    "sentAt": "2026-10-01T13:30:00.000Z",
-    "deliveredAt": "2026-10-01T13:30:00.000Z",
+    "sentAt": "2026-10-06T13:30:00.000Z",
+    "deliveredAt": "2026-10-06T13:30:00.000Z",
     "readAt": null
   },
   {
@@ -205,8 +205,8 @@
     "direction": "inbound",
     "body": "Will call the customer at the next stop.",
     "quickReply": false,
-    "sentAt": "2026-10-01T13:31:00.000Z",
-    "deliveredAt": "2026-10-01T13:31:00.000Z",
+    "sentAt": "2026-10-06T13:31:00.000Z",
+    "deliveredAt": "2026-10-06T13:31:00.000Z",
     "readAt": null
   },
   {
@@ -215,8 +215,8 @@
     "direction": "inbound",
     "body": "OK, will do",
     "quickReply": true,
-    "sentAt": "2026-10-01T13:35:00.000Z",
-    "deliveredAt": "2026-10-01T13:35:00.000Z",
+    "sentAt": "2026-10-06T13:35:00.000Z",
+    "deliveredAt": "2026-10-06T13:35:00.000Z",
     "readAt": null
   },
   {
@@ -225,8 +225,8 @@
     "direction": "outbound",
     "body": "Your end-of-day upload failed. Please retry when you're back on depot wifi.",
     "quickReply": false,
-    "sentAt": "2026-10-01T13:40:00.000Z",
-    "deliveredAt": "2026-10-01T13:41:00.000Z",
+    "sentAt": "2026-10-06T13:40:00.000Z",
+    "deliveredAt": "2026-10-06T13:41:00.000Z",
     "readAt": null
   }
 ]

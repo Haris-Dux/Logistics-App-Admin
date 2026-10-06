@@ -9,7 +9,7 @@
     "routeNumber": "33",
     "available": false,
     "selectedById": "86dba809-f666-4545-9598-462bdca1059b",
-    "selectedAt": "2026-10-01T04:24:00.000Z",
+    "selectedAt": "2026-10-06T04:24:00.000Z",
     "selectedByDeviceId": "android-4d41154efcd6"
   },
   {
@@ -20,10 +20,10 @@
     "depotId": "thames-valley",
     "status": "ACTIVE",
     "routeNumber": "34",
-    "available": false,
-    "selectedById": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "selectedAt": "2026-10-01T04:16:00.000Z",
-    "selectedByDeviceId": "android-5255fa473317"
+    "available": true,
+    "selectedById": null,
+    "selectedAt": null,
+    "selectedByDeviceId": null
   },
   {
     "id": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
@@ -35,7 +35,7 @@
     "routeNumber": "35",
     "available": false,
     "selectedById": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "selectedAt": "2026-10-01T04:17:00.000Z",
+    "selectedAt": "2026-10-06T04:17:00.000Z",
     "selectedByDeviceId": "android-61f6115af708"
   },
   {
@@ -48,7 +48,7 @@
     "routeNumber": "36",
     "available": false,
     "selectedById": "96665859-c727-4a16-9e36-6af41ff1b917",
-    "selectedAt": "2026-10-01T04:04:00.000Z",
+    "selectedAt": "2026-10-06T04:04:00.000Z",
     "selectedByDeviceId": "android-e39673b449b7"
   },
   {
@@ -74,7 +74,7 @@
     "routeNumber": "38",
     "available": false,
     "selectedById": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "selectedAt": "2026-10-01T04:07:00.000Z",
+    "selectedAt": "2026-10-06T04:07:00.000Z",
     "selectedByDeviceId": "android-07ee33e0c129"
   },
   {
@@ -87,7 +87,7 @@
     "routeNumber": "39",
     "available": false,
     "selectedById": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "selectedAt": "2026-10-01T03:37:00.000Z",
+    "selectedAt": "2026-10-06T03:37:00.000Z",
     "selectedByDeviceId": "android-e023c8a86ea2"
   },
   {
@@ -100,7 +100,7 @@
     "routeNumber": "40",
     "available": false,
     "selectedById": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "selectedAt": "2026-10-01T03:14:00.000Z",
+    "selectedAt": "2026-10-06T03:14:00.000Z",
     "selectedByDeviceId": "android-4e58799ea4a4"
   },
   {
@@ -111,10 +111,10 @@
     "depotId": "north-london",
     "status": "ACTIVE",
     "routeNumber": "41",
-    "available": false,
-    "selectedById": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "selectedAt": "2026-10-01T02:33:00.000Z",
-    "selectedByDeviceId": "android-8727ac30ab52"
+    "available": true,
+    "selectedById": null,
+    "selectedAt": null,
+    "selectedByDeviceId": null
   },
   {
     "id": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
@@ -124,10 +124,10 @@
     "depotId": "west-london",
     "status": "ACTIVE",
     "routeNumber": "42",
-    "available": false,
-    "selectedById": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "selectedAt": "2026-10-01T03:55:00.000Z",
-    "selectedByDeviceId": "android-4584cd4c5e0d"
+    "available": true,
+    "selectedById": null,
+    "selectedAt": null,
+    "selectedByDeviceId": null
   },
   {
     "id": "d24d05a0-eb70-503d-96ec-c6cbb4a53577",

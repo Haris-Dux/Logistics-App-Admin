@@ -1,25 +1,14 @@
 [
   {
-    "id": "7dd9bc84-8e36-59e0-a2e1-d652589fbdd7",
+    "id": "8f7bd025-6814-556d-906c-1aa45d7ea606",
     "type": "running_late",
-    "depotId": "west-london",
-    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
-    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "deliveryId": "93c2e690-44ec-597f-81bf-d13fae9e9439",
+    "depotId": "thames-valley",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "deliveryId": "2e31f4af-5218-5f2a-a902-a7c16e85e177",
     "vehicleCheckId": null,
-    "message": "23 min behind at stop 5",
-    "createdAt": "2026-10-01T13:38:00.000Z"
-  },
-  {
-    "id": "edf65387-e9ec-5672-9499-6e774107cb9e",
-    "type": "running_late",
-    "depotId": "north-london",
-    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
-    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "deliveryId": "daa223c5-325c-56c5-838e-141e7de2ad4e",
-    "vehicleCheckId": null,
-    "message": "29 min behind at stop 5",
-    "createdAt": "2026-10-01T13:38:00.000Z"
+    "message": "19 min behind at stop 5",
+    "createdAt": "2026-10-06T13:37:00.000Z"
   },
   {
     "id": "862d2e4a-86ce-5bb2-b738-9dbce6234d6c",
@@ -29,8 +18,30 @@
     "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
     "deliveryId": null,
     "vehicleCheckId": null,
-    "message": "No GPS update since 14:31",
-    "createdAt": "2026-10-01T13:36:00.000Z"
+    "message": "No GPS update since 14:30",
+    "createdAt": "2026-10-06T13:35:34.000Z"
+  },
+  {
+    "id": "e1925759-6b3d-57b8-b16d-9e0779a931ea",
+    "type": "running_late",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "f7579aa3-9eca-5b2f-9d3d-860d38fcc922",
+    "vehicleCheckId": null,
+    "message": "29 min behind at stop 7",
+    "createdAt": "2026-10-06T13:35:00.000Z"
+  },
+  {
+    "id": "5d5b5345-1224-5b2b-ac84-987a0976384d",
+    "type": "running_late",
+    "depotId": "west-london",
+    "vehicleId": "7babb411-ffe1-444d-9c93-fa60a922ed73",
+    "driverId": "86dba809-f666-4545-9598-462bdca1059b",
+    "deliveryId": "a69a1516-ebfb-55bc-97e1-19064fe28fff",
+    "vehicleCheckId": null,
+    "message": "34 min behind at stop 2",
+    "createdAt": "2026-10-06T13:32:00.000Z"
   },
   {
     "id": "89b4d371-a448-5df9-a65a-5eee84a33417",
@@ -41,40 +52,7 @@
     "deliveryId": null,
     "vehicleCheckId": null,
     "message": "End-of-day upload failed",
-    "createdAt": "2026-10-01T13:35:58.000Z"
-  },
-  {
-    "id": "69e73c99-0e26-518e-8110-2a19a0fd8110",
-    "type": "running_late",
-    "depotId": "west-london",
-    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
-    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
-    "deliveryId": "695f05ef-5fd1-5ae3-b16e-91e363dc6138",
-    "vehicleCheckId": null,
-    "message": "49 min behind at stop 6",
-    "createdAt": "2026-10-01T13:33:00.000Z"
-  },
-  {
-    "id": "07618428-830c-530e-be0e-54ab21e3b1a2",
-    "type": "running_late",
-    "depotId": "thames-valley",
-    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
-    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "deliveryId": "e5b65106-e768-5355-b604-147355ec5c73",
-    "vehicleCheckId": null,
-    "message": "30 min behind at stop 6",
-    "createdAt": "2026-10-01T13:30:00.000Z"
-  },
-  {
-    "id": "e85b7336-16cb-5aa5-a1ce-dd8ba704566b",
-    "type": "delivery_skipped",
-    "depotId": "north-london",
-    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
-    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "deliveryId": "85bcacad-5d72-56ac-8c97-7aaeb17c5c8c",
-    "vehicleCheckId": null,
-    "message": "Stop 3 Farnborough Express Stores: shop closed",
-    "createdAt": "2026-10-01T12:42:48.000Z"
+    "createdAt": "2026-10-06T13:10:37.000Z"
   },
   {
     "id": "9943af2e-1445-5253-ad91-905885f95066",
@@ -84,8 +62,19 @@
     "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
     "deliveryId": "2ba516b7-dade-5de4-b406-c7caf90b2632",
     "vehicleCheckId": null,
-    "message": "Stop 4 Wallington Convenience Store: customer refused delivery",
-    "createdAt": "2026-10-01T06:50:40.000Z"
+    "message": "Stop 6 Wallington Convenience Store: customer refused delivery",
+    "createdAt": "2026-10-06T12:14:05.000Z"
+  },
+  {
+    "id": "e85b7336-16cb-5aa5-a1ce-dd8ba704566b",
+    "type": "delivery_skipped",
+    "depotId": "north-london",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "deliveryId": "85bcacad-5d72-56ac-8c97-7aaeb17c5c8c",
+    "vehicleCheckId": null,
+    "message": "Stop 2 Farnborough Express Stores: shop closed",
+    "createdAt": "2026-10-06T10:27:17.000Z"
   },
   {
     "id": "556f48db-a9d7-550b-be55-9ce8338a784e",
@@ -96,7 +85,7 @@
     "deliveryId": null,
     "vehicleCheckId": "8a5808a4-cbe3-5f00-b5b4-844a1bdcb185",
     "message": "Brakes: pedal feels soft (vehicle check)",
-    "createdAt": "2026-10-01T04:16:00.000Z"
+    "createdAt": "2026-10-06T04:16:00.000Z"
   },
   {
     "id": "28c8c0ce-5810-5ff5-8bdc-e4e34adbdb9a",
@@ -106,41 +95,8 @@
     "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
     "deliveryId": null,
     "vehicleCheckId": null,
-    "message": "End-of-day upload failed (retried successfully at 17:02)",
-    "createdAt": "2026-09-30T15:30:23.000Z"
-  },
-  {
-    "id": "f7e42be3-9d16-5aff-b609-a11c2acfc274",
-    "type": "delivery_skipped",
-    "depotId": "north-london",
-    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
-    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "deliveryId": "fa83bda1-c57d-5393-a7e3-ebd8748bdd12",
-    "vehicleCheckId": null,
-    "message": "Stop 6 Camberley Express Stores: customer refused delivery",
-    "createdAt": "2026-09-30T14:17:03.000Z"
-  },
-  {
-    "id": "80e040e4-7c12-586f-94e6-791490ae7d60",
-    "type": "delivery_skipped",
-    "depotId": "north-london",
-    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
-    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "deliveryId": "d65fe349-84d8-59ab-8367-8b6923752838",
-    "vehicleCheckId": null,
-    "message": "Stop 6 Hendon Village Stores: unsafe to unload",
-    "createdAt": "2026-09-30T08:35:34.000Z"
-  },
-  {
-    "id": "1ba0d7fd-fa2b-5a8e-a16e-09077ccae475",
-    "type": "delivery_skipped",
-    "depotId": "north-london",
-    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
-    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
-    "deliveryId": "c8d6cebf-2e52-5fca-ab51-7446dfe04005",
-    "vehicleCheckId": null,
-    "message": "Stop 4 Golders Green Convenience Store: shop closed",
-    "createdAt": "2026-09-30T07:00:40.000Z"
+    "message": "End-of-day upload failed (retried successfully at 15:00)",
+    "createdAt": "2026-10-05T13:28:48.000Z"
   },
   {
     "id": "c355781f-dca8-53bc-b79d-34723e085508",
@@ -150,8 +106,63 @@
     "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
     "deliveryId": "39c9e52d-b44c-500e-8eb0-0a0fac967c41",
     "vehicleCheckId": null,
-    "message": "Stop 3 Hounslow Corner Shop: customer not available to sign",
-    "createdAt": "2026-09-30T06:03:56.000Z"
+    "message": "Stop 4 Hounslow Corner Shop: customer not available to sign",
+    "createdAt": "2026-10-05T12:13:30.000Z"
+  },
+  {
+    "id": "f7e42be3-9d16-5aff-b609-a11c2acfc274",
+    "type": "delivery_skipped",
+    "depotId": "north-london",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "deliveryId": "fa83bda1-c57d-5393-a7e3-ebd8748bdd12",
+    "vehicleCheckId": null,
+    "message": "Stop 5 Camberley Express Stores: customer refused delivery",
+    "createdAt": "2026-10-05T11:51:15.000Z"
+  },
+  {
+    "id": "1ba0d7fd-fa2b-5a8e-a16e-09077ccae475",
+    "type": "delivery_skipped",
+    "depotId": "north-london",
+    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "deliveryId": "c8d6cebf-2e52-5fca-ab51-7446dfe04005",
+    "vehicleCheckId": null,
+    "message": "Stop 1 Golders Green Convenience Store: shop closed",
+    "createdAt": "2026-10-05T11:28:37.000Z"
+  },
+  {
+    "id": "e419e090-55f4-59de-ad2e-3331590a9256",
+    "type": "running_late",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "d0278e88-3746-5a00-9f20-171a4e1a5c3f",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 5",
+    "createdAt": "2026-10-05T10:00:00.000Z"
+  },
+  {
+    "id": "167a3b3c-9b47-53a0-9424-3f84bb9d3f14",
+    "type": "running_late",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "b4829aa9-26cc-5211-be9f-8cd81007829d",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 1",
+    "createdAt": "2026-10-05T09:00:00.000Z"
+  },
+  {
+    "id": "80e040e4-7c12-586f-94e6-791490ae7d60",
+    "type": "delivery_skipped",
+    "depotId": "north-london",
+    "vehicleId": "13525ddc-a54f-4e4a-8145-ad6b17849148",
+    "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
+    "deliveryId": "d65fe349-84d8-59ab-8367-8b6923752838",
+    "vehicleCheckId": null,
+    "message": "Stop 4 Hendon Village Stores: unsafe to unload",
+    "createdAt": "2026-10-05T06:00:12.000Z"
   },
   {
     "id": "5d0ad570-20ba-5769-a65e-f871ffad9397",
@@ -161,8 +172,8 @@
     "driverId": "77a4c24e-fe19-4e9d-a49d-8598c0396bd9",
     "deliveryId": "54b17287-460a-55a4-9f27-8b40d3138cb2",
     "vehicleCheckId": null,
-    "message": "Stop 2 Hendon News & Food: customer refused delivery",
-    "createdAt": "2026-09-30T05:44:34.000Z"
+    "message": "Stop 3 Hendon News & Food: customer refused delivery",
+    "createdAt": "2026-10-05T05:52:31.000Z"
   },
   {
     "id": "ec77f864-932c-5230-ac90-709ed4346ecd",
@@ -172,19 +183,52 @@
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
     "deliveryId": "f1907ebb-b062-501b-b9c1-5c5a3e11f2a6",
     "vehicleCheckId": null,
-    "message": "Stop 9 Elm Mini Market (Enfield): no access to delivery point",
-    "createdAt": "2026-09-29T18:30:37.000Z"
+    "message": "Stop 5 Elm Mini Market (Enfield): no access to delivery point",
+    "createdAt": "2026-10-04T13:13:16.000Z"
   },
   {
-    "id": "ce0d4143-842e-563e-ac4c-7578cb481c38",
-    "type": "delivery_skipped",
-    "depotId": "north-london",
-    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
-    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "deliveryId": "1c86bad9-9de6-58d4-9103-b72f94e701f0",
+    "id": "ced61e93-3fb5-51c2-b530-83ff5ee2d126",
+    "type": "running_late",
+    "depotId": "west-london",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "deliveryId": "3eff0b62-f06e-524f-83ef-b2029aa04a6c",
     "vehicleCheckId": null,
-    "message": "Stop 6 Kings Mini Market (Palmers Green): unsafe to unload",
-    "createdAt": "2026-09-29T17:12:43.000Z"
+    "message": "Arrived late at stop 6",
+    "createdAt": "2026-10-04T13:00:00.000Z"
+  },
+  {
+    "id": "5d91fd69-af6a-505d-b66b-778178fb2fe3",
+    "type": "delivery_skipped",
+    "depotId": "west-london",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "deliveryId": "caf4c53e-70ca-5909-9101-152aaac288f3",
+    "vehicleCheckId": null,
+    "message": "Stop 1 Croydon Food & Wine: no access to delivery point",
+    "createdAt": "2026-10-04T12:12:32.000Z"
+  },
+  {
+    "id": "e94edfab-8544-56d2-a492-7f9c3c4c0c65",
+    "type": "running_late",
+    "depotId": "west-london",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "deliveryId": "3b05a124-34dc-5a24-9305-7a4ccbabe808",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 3",
+    "createdAt": "2026-10-04T12:00:00.000Z"
+  },
+  {
+    "id": "dbc693c7-3b8b-5858-8bf4-c7938b28da77",
+    "type": "running_late",
+    "depotId": "west-london",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "deliveryId": "7e77ac93-bc63-511c-8204-81fa7da65aea",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 2",
+    "createdAt": "2026-10-04T12:00:00.000Z"
   },
   {
     "id": "88f77e01-7f01-5218-96fc-d05d562f2bc8",
@@ -195,18 +239,18 @@
     "deliveryId": "a8d24beb-b2f2-5e37-9728-a2fc94585382",
     "vehicleCheckId": null,
     "message": "Stop 6 Elm Food & Wine (Palmers Green): unsafe to unload",
-    "createdAt": "2026-09-29T10:19:23.000Z"
+    "createdAt": "2026-10-04T10:38:08.000Z"
   },
   {
-    "id": "5d91fd69-af6a-505d-b66b-778178fb2fe3",
+    "id": "ce0d4143-842e-563e-ac4c-7578cb481c38",
     "type": "delivery_skipped",
-    "depotId": "west-london",
-    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
-    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "deliveryId": "caf4c53e-70ca-5909-9101-152aaac288f3",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "1c86bad9-9de6-58d4-9103-b72f94e701f0",
     "vehicleCheckId": null,
-    "message": "Stop 5 Croydon Food & Wine: no access to delivery point",
-    "createdAt": "2026-09-29T07:58:53.000Z"
+    "message": "Stop 1 Kings Mini Market (Palmers Green): unsafe to unload",
+    "createdAt": "2026-10-04T05:14:03.000Z"
   },
   {
     "id": "38a05e89-54fa-5a33-aef6-2f342a1caee8",
@@ -217,29 +261,7 @@
     "deliveryId": null,
     "vehicleCheckId": "f0ee96c9-83a1-5689-a7c5-61c19fb02129",
     "message": "Tyre pressure: front nearside tyre low",
-    "createdAt": "2026-09-29T03:18:16.000Z"
-  },
-  {
-    "id": "82fe5c29-1662-5374-8c38-f354b9726739",
-    "type": "delivery_skipped",
-    "depotId": "north-london",
-    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
-    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
-    "deliveryId": "d47e2ec6-dba2-5d68-a5f7-d4939a2c6e1e",
-    "vehicleCheckId": null,
-    "message": "Stop 5 Basingstoke Village Stores: no access to delivery point",
-    "createdAt": "2026-09-28T13:47:36.000Z"
-  },
-  {
-    "id": "c6320da3-d1e5-54be-bf8d-52fb52975efd",
-    "type": "delivery_skipped",
-    "depotId": "west-london",
-    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
-    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "deliveryId": "ec4f8458-307e-554e-a1e7-f1842a716aae",
-    "vehicleCheckId": null,
-    "message": "Stop 4 Marlow Food & Wine: no access to delivery point",
-    "createdAt": "2026-09-28T12:49:26.000Z"
+    "createdAt": "2026-10-04T03:18:16.000Z"
   },
   {
     "id": "d940cfb7-d63e-5f3b-969f-214c2aca4255",
@@ -249,30 +271,19 @@
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
     "deliveryId": "6b5f3da2-a64c-5e8f-bc3f-4b8b308e54b6",
     "vehicleCheckId": null,
-    "message": "Stop 7 Cedar Food & Wine (Watford): shop closed",
-    "createdAt": "2026-09-28T10:58:50.000Z"
+    "message": "Stop 2 Cedar Food & Wine (Watford): shop closed",
+    "createdAt": "2026-10-03T16:59:11.000Z"
   },
   {
-    "id": "c2ae26c3-6166-58f3-bb1d-40d288d2a484",
-    "type": "delivery_skipped",
-    "depotId": "thames-valley",
-    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
-    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "deliveryId": "5c3125b5-badd-5ece-99be-53b17ca2e2bc",
-    "vehicleCheckId": null,
-    "message": "Stop 5 Market Express Foods (Windsor): no access to delivery point",
-    "createdAt": "2026-09-28T10:28:20.000Z"
-  },
-  {
-    "id": "8f35921e-f641-5b42-88c2-858fb46677c7",
+    "id": "49d1cabe-0815-569e-b52f-942813ec42b3",
     "type": "running_late",
-    "depotId": "north-london",
-    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
-    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "deliveryId": "5fa76b4e-dcc4-5eab-8071-7130be9991f7",
+    "depotId": "thames-valley",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "deliveryId": "ab805296-adb0-5630-ab25-9731f01e830c",
     "vehicleCheckId": null,
-    "message": "Arrived late at stop 12",
-    "createdAt": "2026-09-28T08:00:00.000Z"
+    "message": "Arrived late at stop 4",
+    "createdAt": "2026-10-03T12:00:00.000Z"
   },
   {
     "id": "e4beae5d-f6ad-597b-8566-10089b8e7305",
@@ -283,7 +294,62 @@
     "deliveryId": "11ae8163-eb10-51a9-9bd5-9abe82881291",
     "vehicleCheckId": null,
     "message": "Stop 2 Feltham Local Market: unsafe to unload",
-    "createdAt": "2026-09-28T05:38:00.000Z"
+    "createdAt": "2026-10-03T11:35:10.000Z"
+  },
+  {
+    "id": "ebb083f6-084e-5bdc-b0f5-c75a588c6dfd",
+    "type": "running_late",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "b609370d-174f-536f-8cc8-63d151e9c4cd",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 5",
+    "createdAt": "2026-10-03T10:00:00.000Z"
+  },
+  {
+    "id": "1d24a226-bfb2-5210-b149-c201071711e6",
+    "type": "running_late",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "666c396d-98ae-516a-bbb5-0da40f81534c",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 1",
+    "createdAt": "2026-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "c2ae26c3-6166-58f3-bb1d-40d288d2a484",
+    "type": "delivery_skipped",
+    "depotId": "thames-valley",
+    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
+    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
+    "deliveryId": "5c3125b5-badd-5ece-99be-53b17ca2e2bc",
+    "vehicleCheckId": null,
+    "message": "Stop 3 Market Express Foods (Windsor): no access to delivery point",
+    "createdAt": "2026-10-03T05:39:43.000Z"
+  },
+  {
+    "id": "82fe5c29-1662-5374-8c38-f354b9726739",
+    "type": "delivery_skipped",
+    "depotId": "north-london",
+    "vehicleId": "374ca001-b31e-4e16-b2ca-7cc2dbbaebe1",
+    "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
+    "deliveryId": "d47e2ec6-dba2-5d68-a5f7-d4939a2c6e1e",
+    "vehicleCheckId": null,
+    "message": "Stop 2 Basingstoke Village Stores: no access to delivery point",
+    "createdAt": "2026-10-03T05:20:52.000Z"
+  },
+  {
+    "id": "c6320da3-d1e5-54be-bf8d-52fb52975efd",
+    "type": "delivery_skipped",
+    "depotId": "west-london",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "deliveryId": "ec4f8458-307e-554e-a1e7-f1842a716aae",
+    "vehicleCheckId": null,
+    "message": "Stop 1 Marlow Food & Wine: no access to delivery point",
+    "createdAt": "2026-10-03T05:04:58.000Z"
   },
   {
     "id": "2e542fae-9ed0-56e4-ad85-e1670fc50efa",
@@ -294,40 +360,7 @@
     "deliveryId": null,
     "vehicleCheckId": "4814622c-925e-5e3b-9474-d74f5e33af18",
     "message": "Bodywork & doors: side loading door won't latch",
-    "createdAt": "2026-09-28T04:03:14.000Z"
-  },
-  {
-    "id": "2b3a22a7-d60d-5bc7-99d6-d064ae2ec1b1",
-    "type": "running_late",
-    "depotId": "thames-valley",
-    "vehicleId": "2ee1a660-3662-4ee2-94cf-4a7740437f96",
-    "driverId": "5fbd44b5-3f87-4958-8528-233e99758c89",
-    "deliveryId": "49c449b1-e282-5309-b061-82d81e48c0c2",
-    "vehicleCheckId": null,
-    "message": "Arrived late at stop 8",
-    "createdAt": "2026-09-27T15:00:00.000Z"
-  },
-  {
-    "id": "26c2884f-bab7-532c-be68-3e970758b26f",
-    "type": "running_late",
-    "depotId": "west-london",
-    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
-    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "deliveryId": "d10803e1-3a96-586c-80f3-66e903af9414",
-    "vehicleCheckId": null,
-    "message": "Arrived late at stop 4",
-    "createdAt": "2026-09-27T13:00:00.000Z"
-  },
-  {
-    "id": "07c90c22-4123-5444-93c1-49b161c165b2",
-    "type": "delivery_skipped",
-    "depotId": "west-london",
-    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
-    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "deliveryId": "170be2ee-5199-56db-a7ed-a91daa1b50ee",
-    "vehicleCheckId": null,
-    "message": "Stop 3 Beaconsfield Food & Wine: shop closed",
-    "createdAt": "2026-09-27T12:59:05.000Z"
+    "createdAt": "2026-10-03T04:03:14.000Z"
   },
   {
     "id": "fc8f84ba-922b-5adc-b1a3-42e2f8ed94a3",
@@ -337,8 +370,52 @@
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
     "deliveryId": "a898cf89-a0da-59a5-91e5-0600890fcca3",
     "vehicleCheckId": null,
-    "message": "Stop 7 Cedar Food & Wine (Watford): shop closed",
-    "createdAt": "2026-09-27T11:06:39.000Z"
+    "message": "Stop 2 Cedar Food & Wine (Watford): shop closed",
+    "createdAt": "2026-10-02T16:54:05.000Z"
+  },
+  {
+    "id": "41937649-bc78-5404-b602-9be828fee689",
+    "type": "running_late",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "8f6d5ae8-2143-5902-9c78-363590ba4463",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 5",
+    "createdAt": "2026-10-02T13:00:00.000Z"
+  },
+  {
+    "id": "07c90c22-4123-5444-93c1-49b161c165b2",
+    "type": "delivery_skipped",
+    "depotId": "west-london",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "deliveryId": "170be2ee-5199-56db-a7ed-a91daa1b50ee",
+    "vehicleCheckId": null,
+    "message": "Stop 2 Beaconsfield Food & Wine: shop closed",
+    "createdAt": "2026-10-02T11:12:10.000Z"
+  },
+  {
+    "id": "9c543d8e-52a4-57b5-a800-7e2f6da0b02f",
+    "type": "running_late",
+    "depotId": "west-london",
+    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "deliveryId": "0626a12c-24a8-5db9-9548-a03793e3a01f",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 1",
+    "createdAt": "2026-10-02T11:00:00.000Z"
+  },
+  {
+    "id": "96074c5d-c7e8-5f16-8841-593d2055ee5f",
+    "type": "delivery_skipped",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "6a9fce96-95b5-5fc0-a2a7-58f7528c497c",
+    "vehicleCheckId": null,
+    "message": "Stop 8 Market Food & Wine (Edmonton): unsafe to unload",
+    "createdAt": "2026-10-02T10:58:46.000Z"
   },
   {
     "id": "ea6138c4-dd3e-5604-b07d-d1a302197389",
@@ -349,29 +426,18 @@
     "deliveryId": "9dc256f6-e56b-5668-bb01-6af5a7a02d4f",
     "vehicleCheckId": null,
     "message": "Stop 6 Elm Food & Wine (Palmers Green): shop closed",
-    "createdAt": "2026-09-27T10:35:58.000Z"
+    "createdAt": "2026-10-02T10:41:34.000Z"
   },
   {
-    "id": "a579d441-d63a-5a44-a7dd-ffd246711550",
+    "id": "728f661e-8a7d-5d22-9f89-05c81b8e2654",
     "type": "running_late",
     "depotId": "north-london",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "deliveryId": "5ea4d3c6-cc78-5bb2-8662-950681226d85",
+    "deliveryId": "40a86ac5-66c9-5070-ac01-a7b871992799",
     "vehicleCheckId": null,
-    "message": "Arrived late at stop 2",
-    "createdAt": "2026-09-27T09:00:00.000Z"
-  },
-  {
-    "id": "96074c5d-c7e8-5f16-8841-593d2055ee5f",
-    "type": "delivery_skipped",
-    "depotId": "north-london",
-    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
-    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "deliveryId": "6a9fce96-95b5-5fc0-a2a7-58f7528c497c",
-    "vehicleCheckId": null,
-    "message": "Stop 5 Market Food & Wine (Edmonton): unsafe to unload",
-    "createdAt": "2026-09-27T06:12:59.000Z"
+    "message": "Arrived late at stop 1",
+    "createdAt": "2026-10-02T09:00:00.000Z"
   },
   {
     "id": "d279fa8b-e767-59c3-b9ad-6e9545f9031e",
@@ -381,52 +447,19 @@
     "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
     "deliveryId": "25f86bef-ebc1-5697-8d28-f619147e97f9",
     "vehicleCheckId": null,
-    "message": "Stop 1 High Wycombe Corner Shop: customer not available to sign",
-    "createdAt": "2026-09-27T05:06:53.000Z"
+    "message": "Stop 6 High Wycombe Corner Shop: customer not available to sign",
+    "createdAt": "2026-10-02T06:29:22.000Z"
   },
   {
-    "id": "68e01801-ee71-5b08-802e-4d2ef2f41701",
-    "type": "delivery_skipped",
+    "id": "fe95116b-3416-52e5-99ac-574407747832",
+    "type": "running_late",
     "depotId": "north-london",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "deliveryId": "e96313f9-82c8-5432-ad2b-7dfacaac5de9",
+    "deliveryId": "a580de63-61b8-5ff0-af15-5e2b623b9a73",
     "vehicleCheckId": null,
-    "message": "Stop 4 Oxford Mini Market (Tottenham): customer refused delivery",
-    "createdAt": "2026-09-26T16:50:34.000Z"
-  },
-  {
-    "id": "924bdc0a-c7b1-5ed5-a04e-748e1607ed31",
-    "type": "delivery_skipped",
-    "depotId": "west-london",
-    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
-    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
-    "deliveryId": "c3ebdfed-5b21-5e57-9a55-9281fc8a9afd",
-    "vehicleCheckId": null,
-    "message": "Stop 2 Sutton Village Stores: customer not available to sign",
-    "createdAt": "2026-09-26T11:39:37.000Z"
-  },
-  {
-    "id": "53d15939-3fb2-5a6e-a9ff-e9cf2487042a",
-    "type": "delivery_skipped",
-    "depotId": "north-london",
-    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
-    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "deliveryId": "bcf47937-f4c2-5967-a3b8-3d0f163dd18d",
-    "vehicleCheckId": null,
-    "message": "Stop 5 Grange Food & Wine (Edmonton): unsafe to unload",
-    "createdAt": "2026-09-26T10:27:27.000Z"
-  },
-  {
-    "id": "c82edd83-a583-50a0-9893-62646b0e23c7",
-    "type": "delivery_skipped",
-    "depotId": "north-london",
-    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
-    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "deliveryId": "b1ffc2f3-4819-5837-ad31-fb31b6528874",
-    "vehicleCheckId": null,
-    "message": "Stop 10 Mill Food & Wine (Barnet): unsafe to unload",
-    "createdAt": "2026-09-26T08:09:55.000Z"
+    "message": "Arrived late at stop 5",
+    "createdAt": "2026-10-01T13:00:00.000Z"
   },
   {
     "id": "2a17a2e0-1fdf-5f34-b87f-01c6057162d4",
@@ -436,41 +469,74 @@
     "driverId": "7fd46ee3-9052-453c-9b12-cefb684beb9f",
     "deliveryId": "86ec5630-cb94-5594-808c-919f9f8e13d8",
     "vehicleCheckId": null,
-    "message": "Stop 2 Camberley Express Stores: customer not available to sign",
-    "createdAt": "2026-09-26T05:41:13.000Z"
+    "message": "Stop 6 Camberley Express Stores: customer not available to sign",
+    "createdAt": "2026-10-01T12:05:59.000Z"
   },
   {
-    "id": "9977cc8c-fcc9-5b8e-b199-7d39862676ba",
+    "id": "53d15939-3fb2-5a6e-a9ff-e9cf2487042a",
+    "type": "delivery_skipped",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "bcf47937-f4c2-5967-a3b8-3d0f163dd18d",
+    "vehicleCheckId": null,
+    "message": "Stop 9 Grange Food & Wine (Edmonton): unsafe to unload",
+    "createdAt": "2026-10-01T11:28:02.000Z"
+  },
+  {
+    "id": "c82edd83-a583-50a0-9893-62646b0e23c7",
+    "type": "delivery_skipped",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "b1ffc2f3-4819-5837-ad31-fb31b6528874",
+    "vehicleCheckId": null,
+    "message": "Stop 5 Mill Food & Wine (Barnet): unsafe to unload",
+    "createdAt": "2026-10-01T10:44:50.000Z"
+  },
+  {
+    "id": "69959a09-c2b0-53e7-9b89-f7a8c372df95",
     "type": "running_late",
     "depotId": "north-london",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "deliveryId": "e3857195-6d6d-5f4d-adb9-f43b53c9fc19",
+    "deliveryId": "87ed1448-e67d-5287-b3e3-859d58064a5b",
     "vehicleCheckId": null,
-    "message": "Arrived late at stop 9",
-    "createdAt": "2026-09-25T18:00:00.000Z"
+    "message": "Arrived late at stop 4",
+    "createdAt": "2026-10-01T10:00:00.000Z"
   },
   {
-    "id": "2a5e86e5-5733-59aa-b9ca-52ee04c58ed7",
+    "id": "dd6fb736-c15f-5505-a20a-868a7a175440",
+    "type": "running_late",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "8daa8c93-c6bf-539f-abc3-e80e26f7488c",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 1",
+    "createdAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "68e01801-ee71-5b08-802e-4d2ef2f41701",
+    "type": "delivery_skipped",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "e96313f9-82c8-5432-ad2b-7dfacaac5de9",
+    "vehicleCheckId": null,
+    "message": "Stop 12 Oxford Mini Market (Tottenham): customer refused delivery",
+    "createdAt": "2026-10-01T08:10:18.000Z"
+  },
+  {
+    "id": "924bdc0a-c7b1-5ed5-a04e-748e1607ed31",
     "type": "delivery_skipped",
     "depotId": "west-london",
-    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
-    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
-    "deliveryId": "ae967af6-2fff-502b-ad6a-7dfceecfce75",
+    "vehicleId": "ae26cc1b-22f7-44f8-a31f-256dd2c8ad8b",
+    "driverId": "7a590f22-249d-44ef-9b6d-887144541f9d",
+    "deliveryId": "c3ebdfed-5b21-5e57-9a55-9281fc8a9afd",
     "vehicleCheckId": null,
-    "message": "Stop 6 Amersham Express Stores: customer refused delivery",
-    "createdAt": "2026-09-25T14:31:54.000Z"
-  },
-  {
-    "id": "ea900768-d45b-5ee2-bcf5-8533ad61ad51",
-    "type": "delivery_skipped",
-    "depotId": "thames-valley",
-    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
-    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "deliveryId": "7182909c-a058-5a5a-985d-96d726e77c4d",
-    "vehicleCheckId": null,
-    "message": "Stop 7 Barking Village Stores: unsafe to unload",
-    "createdAt": "2026-09-25T14:18:22.000Z"
+    "message": "Stop 5 Sutton Village Stores: customer not available to sign",
+    "createdAt": "2026-10-01T06:36:39.000Z"
   },
   {
     "id": "081f4fd0-dd55-5467-9ef2-aa05adad33ec",
@@ -480,19 +546,74 @@
     "driverId": "3b7dcfa8-8a7e-422f-8b78-9d9c37fd2338",
     "deliveryId": "2fd1ac5d-707a-59e5-88c2-a524eae135a2",
     "vehicleCheckId": null,
-    "message": "Stop 3 Hounslow Food & Wine: unsafe to unload",
-    "createdAt": "2026-09-25T12:20:16.000Z"
+    "message": "Stop 5 Hounslow Food & Wine: unsafe to unload",
+    "createdAt": "2026-09-30T12:45:19.000Z"
   },
   {
-    "id": "54d76149-0da3-57e9-a727-7be80f1ac61c",
+    "id": "5095ff7b-f32b-5db7-b10f-6e97cf140a15",
+    "type": "delivery_skipped",
+    "depotId": "thames-valley",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "deliveryId": "e3fd44c5-6650-5a2e-9621-986a5e301b46",
+    "vehicleCheckId": null,
+    "message": "Stop 7 Barking Convenience Store: customer refused delivery",
+    "createdAt": "2026-09-30T12:27:51.000Z"
+  },
+  {
+    "id": "2a5e86e5-5733-59aa-b9ca-52ee04c58ed7",
+    "type": "delivery_skipped",
+    "depotId": "west-london",
+    "vehicleId": "cfe74e4e-d383-451e-bb28-aece59eebaf4",
+    "driverId": "5cb76e07-8354-4b4f-bbb3-b3b2c7000e10",
+    "deliveryId": "ae967af6-2fff-502b-ad6a-7dfceecfce75",
+    "vehicleCheckId": null,
+    "message": "Stop 7 Amersham Express Stores: customer refused delivery",
+    "createdAt": "2026-09-30T12:20:58.000Z"
+  },
+  {
+    "id": "8c4fb28d-28de-58a3-a37d-584ef4c4b164",
+    "type": "running_late",
+    "depotId": "west-london",
+    "vehicleId": "21ee30aa-a312-41ed-8e37-c85b79019812",
+    "driverId": "96665859-c727-4a16-9e36-6af41ff1b917",
+    "deliveryId": "db7724b0-6c33-53cf-a488-96c755043350",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 1",
+    "createdAt": "2026-09-30T11:00:00.000Z"
+  },
+  {
+    "id": "2a398529-cbf3-5886-9b09-90dfc85ebd7e",
     "type": "running_late",
     "depotId": "north-london",
     "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
     "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
-    "deliveryId": "018aed14-89d6-58f6-bbc6-f04805aeae7e",
+    "deliveryId": "24af2e86-c654-5c38-95d5-f8e89627f802",
     "vehicleCheckId": null,
-    "message": "Arrived late at stop 12",
-    "createdAt": "2026-09-25T08:00:00.000Z"
+    "message": "Arrived late at stop 5",
+    "createdAt": "2026-09-30T10:00:00.000Z"
+  },
+  {
+    "id": "684bb405-9bcb-5911-bc2f-979081cbc966",
+    "type": "running_late",
+    "depotId": "north-london",
+    "vehicleId": "ef2ce227-dba2-4f0f-9763-f9b75f656a9d",
+    "driverId": "35f1a20f-4049-448f-9010-b306e3e0d12f",
+    "deliveryId": "04eee952-d75e-5b1c-a5f4-7aaeed8225b0",
+    "vehicleCheckId": null,
+    "message": "Arrived late at stop 1",
+    "createdAt": "2026-09-30T09:00:00.000Z"
+  },
+  {
+    "id": "ea900768-d45b-5ee2-bcf5-8533ad61ad51",
+    "type": "delivery_skipped",
+    "depotId": "thames-valley",
+    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
+    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
+    "deliveryId": "7182909c-a058-5a5a-985d-96d726e77c4d",
+    "vehicleCheckId": null,
+    "message": "Stop 5 Barking Village Stores: unsafe to unload",
+    "createdAt": "2026-09-30T06:28:22.000Z"
   },
   {
     "id": "2a318565-60ba-52cb-a8b8-3bb20b6221e5",
@@ -503,17 +624,6 @@
     "deliveryId": "497a97cb-9abc-523b-a0e0-2c88a796e17d",
     "vehicleCheckId": null,
     "message": "Stop 5 High Wycombe Convenience Store: customer refused delivery",
-    "createdAt": "2026-09-25T07:15:14.000Z"
-  },
-  {
-    "id": "5095ff7b-f32b-5db7-b10f-6e97cf140a15",
-    "type": "delivery_skipped",
-    "depotId": "thames-valley",
-    "vehicleId": "893cf307-0883-4c86-98c4-c5c6e1930cac",
-    "driverId": "9e6302c0-ef2c-49b5-a08b-3e1d2b5bfbf0",
-    "deliveryId": "e3fd44c5-6650-5a2e-9621-986a5e301b46",
-    "vehicleCheckId": null,
-    "message": "Stop 3 Barking Convenience Store: customer refused delivery",
-    "createdAt": "2026-09-25T06:19:27.000Z"
+    "createdAt": "2026-09-30T06:10:50.000Z"
   }
 ]
