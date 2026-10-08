@@ -17,7 +17,6 @@ import {
 } from '@/components/ui/table'
 import { DatePicker } from '@/components/date-picker'
 import { DeliveryProgress } from '@/components/delivery-progress'
-import { AppHeader } from '@/components/layout/app-header'
 import { Main } from '@/components/layout/main'
 import { PageTitle } from '@/components/layout/page-title'
 import { StatusBadge } from '@/components/status-badge'
@@ -37,11 +36,9 @@ export function DeliveryRoutes() {
 
   return (
     <>
-      <AppHeader fixed />
       <Main className='flex flex-col gap-4 sm:gap-6'>
         <PageTitle
           title='Routes'
-          description='Who is driving which vehicle on each route, and how far they have got.'
         >
           <DatePicker
             value={date}

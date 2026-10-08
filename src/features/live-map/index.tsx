@@ -2,7 +2,6 @@ import { useCallback } from 'react'
 import { getRouteApi } from '@tanstack/react-router'
 import { todayParam } from '@/lib/dates'
 import { useFleetDay } from '@/hooks/use-fleet-day'
-import { AppHeader } from '@/components/layout/app-header'
 import { Main } from '@/components/layout/main'
 import { FleetWorkspace } from './components/fleet-workspace'
 import { VanList } from './components/van-list'
@@ -23,7 +22,6 @@ export function LiveMap() {
 
   return (
     <>
-      <AppHeader />
       <Main
         fixed
         fluid

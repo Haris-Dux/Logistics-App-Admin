@@ -4,7 +4,6 @@ import { alertsQueryOptions } from '@/api/alerts'
 import { useDepotId } from '@/stores/depot-store'
 import { recentDays } from '@/lib/dates'
 import { DateRangePicker } from '@/components/date-range-picker'
-import { AppHeader } from '@/components/layout/app-header'
 import { Main } from '@/components/layout/main'
 import { PageTitle } from '@/components/layout/page-title'
 import { AlertsTable } from './components/alerts-table'
@@ -23,11 +22,9 @@ export function Alerts() {
 
   return (
     <>
-      <AppHeader fixed />
       <Main className='flex flex-1 flex-col gap-4 sm:gap-6'>
         <PageTitle
           title='Alerts'
-          description='Running late, skipped deliveries, lost GPS, defects and failed uploads.'
         >
           <DateRangePicker
             value={range}

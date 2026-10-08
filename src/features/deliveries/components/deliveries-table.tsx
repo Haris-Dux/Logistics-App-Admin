@@ -2,7 +2,6 @@ import { useNavigate } from '@tanstack/react-router'
 import {
   deliveryStates,
   toFilterOptions,
-  windowResults,
 } from '@/config/statuses'
 import { type Delivery } from '@/api/deliveries'
 import { useDataTable } from '@/hooks/use-data-table'
@@ -52,11 +51,6 @@ export function DeliveriesTable({
             columnId: 'state',
             title: 'Status',
             options: toFilterOptions(deliveryStates),
-          },
-          {
-            columnId: 'result',
-            title: 'Window result',
-            options: toFilterOptions(windowResults),
           },
           {
             columnId: 'route',

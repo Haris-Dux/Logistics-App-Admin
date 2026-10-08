@@ -4,7 +4,6 @@ import { depotsQueryOptions } from '@/api/depots'
 import { driversQueryOptions } from '@/api/drivers'
 import { vehiclesQueryOptions } from '@/api/vehicles'
 import { useDepotId } from '@/stores/depot-store'
-import { AppHeader } from '@/components/layout/app-header'
 import { Main } from '@/components/layout/main'
 import { PageTitle } from '@/components/layout/page-title'
 import { VehiclesTable } from './components/vehicles-table'
@@ -21,11 +20,9 @@ export function Vehicles() {
 
   return (
     <>
-      <AppHeader fixed />
       <Main className='flex flex-1 flex-col gap-4 sm:gap-6'>
         <PageTitle
           title='Vehicles'
-          description='Every vehicle, whether it is on the road, and who is driving it.'
         />
         <VehiclesTable
           data={data}

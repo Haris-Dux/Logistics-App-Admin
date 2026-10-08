@@ -6,13 +6,13 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Skeleton } from '@/components/ui/skeleton'
 import { StatusBadge } from '@/components/status-badge'
 
-const MAX_ITEMS = 6
+const MAX_ITEMS = 9
 
 type NeedsAttentionProps = { alerts?: Alert[] }
 
 export function NeedsAttention({ alerts }: NeedsAttentionProps) {
   return (
-    <Card className='gap-3'>
+    <Card className='h-full w-full gap-3'>
       <CardHeader className='flex items-center justify-between'>
         <CardTitle>Needs attention</CardTitle>
         <Link

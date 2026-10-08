@@ -7,7 +7,6 @@ import { shiftsQueryOptions } from '@/api/shifts'
 import { useDepotId } from '@/stores/depot-store'
 import { todayParam } from '@/lib/dates'
 import useDialogState from '@/hooks/use-dialog-state'
-import { AppHeader } from '@/components/layout/app-header'
 import { Main } from '@/components/layout/main'
 import { BroadcastDialog } from './components/broadcast-dialog'
 import { type Contact } from './components/contact'
@@ -50,7 +49,6 @@ export function Messages() {
 
   return (
     <>
-      <AppHeader />
       <Main
         fixed
         className='flex flex-col gap-4 max-sm:overflow-y-auto sm:flex-row'

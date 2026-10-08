@@ -33,8 +33,8 @@ export function DepotSwitcher() {
 
   const title = (
     <>
-      <div className='flex aspect-square size-8 items-center justify-center rounded-lg bg-sidebar-primary text-sidebar-primary-foreground'>
-        <Warehouse className='size-4' />
+      <div className='flex aspect-square size-8 items-center justify-center rounded-lg'>
+      <img src="/images/icon.png" alt="LogisticApp" className="size-7 object-contain"/>
       </div>
       <div className='grid flex-1 text-start text-sm leading-tight'>
         <span className='truncate font-semibold'>LogisticApp Admin</span>

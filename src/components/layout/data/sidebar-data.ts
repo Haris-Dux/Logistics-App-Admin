@@ -1,7 +1,5 @@
 import {
-  ChartColumn,
   ClipboardCheck,
-  History,
   LayoutDashboard,
   Map as MapIcon,
   MessagesSquare,
@@ -42,14 +40,12 @@ export const sidebarData: SidebarData = {
       title: 'Insights',
       items: [
         { title: 'Alerts', url: '/alerts', icon: TriangleAlert },
-        { title: 'Reports', url: '/reports', icon: ChartColumn },
       ],
     },
     {
       title: 'Admin & access',
       items: [
         { title: 'Admins', url: '/admins', icon: ShieldCheck },
-        { title: 'Activity log', url: '/activity-log', icon: History },
       ],
     },
   ],

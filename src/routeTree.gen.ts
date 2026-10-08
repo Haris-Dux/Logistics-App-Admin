@@ -20,14 +20,12 @@ import { Route as authSignInRouteImport } from './routes/(auth)/sign-in'
 import { Route as AuthenticatedVehiclesIndexRouteImport } from './routes/_authenticated/vehicles/index'
 import { Route as AuthenticatedVehicleChecksIndexRouteImport } from './routes/_authenticated/vehicle-checks/index'
 import { Route as AuthenticatedRoutesIndexRouteImport } from './routes/_authenticated/routes/index'
-import { Route as AuthenticatedReportsIndexRouteImport } from './routes/_authenticated/reports/index'
 import { Route as AuthenticatedMessagesIndexRouteImport } from './routes/_authenticated/messages/index'
 import { Route as AuthenticatedLiveMapIndexRouteImport } from './routes/_authenticated/live-map/index'
 import { Route as AuthenticatedDriversIndexRouteImport } from './routes/_authenticated/drivers/index'
 import { Route as AuthenticatedDeliveriesIndexRouteImport } from './routes/_authenticated/deliveries/index'
 import { Route as AuthenticatedAlertsIndexRouteImport } from './routes/_authenticated/alerts/index'
 import { Route as AuthenticatedAdminsIndexRouteImport } from './routes/_authenticated/admins/index'
-import { Route as AuthenticatedActivityLogIndexRouteImport } from './routes/_authenticated/activity-log/index'
 import { Route as AuthenticatedDeliveriesDeliveryIdRouteImport } from './routes/_authenticated/deliveries/$deliveryId'
 
 const AuthenticatedRouteRoute = AuthenticatedRouteRouteImport.update({
@@ -87,12 +85,6 @@ const AuthenticatedRoutesIndexRoute =
     path: '/routes/',
     getParentRoute: () => AuthenticatedRouteRoute,
   } as any)
-const AuthenticatedReportsIndexRoute =
-  AuthenticatedReportsIndexRouteImport.update({
-    id: '/reports/',
-    path: '/reports/',
-    getParentRoute: () => AuthenticatedRouteRoute,
-  } as any)
 const AuthenticatedMessagesIndexRoute =
   AuthenticatedMessagesIndexRouteImport.update({
     id: '/messages/',
@@ -129,12 +121,6 @@ const AuthenticatedAdminsIndexRoute =
     path: '/admins/',
     getParentRoute: () => AuthenticatedRouteRoute,
   } as any)
-const AuthenticatedActivityLogIndexRoute =
-  AuthenticatedActivityLogIndexRouteImport.update({
-    id: '/activity-log/',
-    path: '/activity-log/',
-    getParentRoute: () => AuthenticatedRouteRoute,
-  } as any)
 const AuthenticatedDeliveriesDeliveryIdRoute =
   AuthenticatedDeliveriesDeliveryIdRouteImport.update({
     id: '/deliveries/$deliveryId',
@@ -151,14 +137,12 @@ export interface FileRoutesByFullPath {
   '/500': typeof errors500Route
   '/503': typeof errors503Route
   '/deliveries/$deliveryId': typeof AuthenticatedDeliveriesDeliveryIdRoute
-  '/activity-log/': typeof AuthenticatedActivityLogIndexRoute
   '/admins/': typeof AuthenticatedAdminsIndexRoute
   '/alerts/': typeof AuthenticatedAlertsIndexRoute
   '/deliveries/': typeof AuthenticatedDeliveriesIndexRoute
   '/drivers/': typeof AuthenticatedDriversIndexRoute
   '/live-map/': typeof AuthenticatedLiveMapIndexRoute
   '/messages/': typeof AuthenticatedMessagesIndexRoute
-  '/reports/': typeof AuthenticatedReportsIndexRoute
   '/routes/': typeof AuthenticatedRoutesIndexRoute
   '/vehicle-checks/': typeof AuthenticatedVehicleChecksIndexRoute
   '/vehicles/': typeof AuthenticatedVehiclesIndexRoute
@@ -172,14 +156,12 @@ export interface FileRoutesByTo {
   '/503': typeof errors503Route
   '/': typeof AuthenticatedIndexRoute
   '/deliveries/$deliveryId': typeof AuthenticatedDeliveriesDeliveryIdRoute
-  '/activity-log': typeof AuthenticatedActivityLogIndexRoute
   '/admins': typeof AuthenticatedAdminsIndexRoute
   '/alerts': typeof AuthenticatedAlertsIndexRoute
   '/deliveries': typeof AuthenticatedDeliveriesIndexRoute
   '/drivers': typeof AuthenticatedDriversIndexRoute
   '/live-map': typeof AuthenticatedLiveMapIndexRoute
   '/messages': typeof AuthenticatedMessagesIndexRoute
-  '/reports': typeof AuthenticatedReportsIndexRoute
   '/routes': typeof AuthenticatedRoutesIndexRoute
   '/vehicle-checks': typeof AuthenticatedVehicleChecksIndexRoute
   '/vehicles': typeof AuthenticatedVehiclesIndexRoute
@@ -195,14 +177,12 @@ export interface FileRoutesById {
   '/(errors)/503': typeof errors503Route
   '/_authenticated/': typeof AuthenticatedIndexRoute
   '/_authenticated/deliveries/$deliveryId': typeof AuthenticatedDeliveriesDeliveryIdRoute
-  '/_authenticated/activity-log/': typeof AuthenticatedActivityLogIndexRoute
   '/_authenticated/admins/': typeof AuthenticatedAdminsIndexRoute
   '/_authenticated/alerts/': typeof AuthenticatedAlertsIndexRoute
   '/_authenticated/deliveries/': typeof AuthenticatedDeliveriesIndexRoute
   '/_authenticated/drivers/': typeof AuthenticatedDriversIndexRoute
   '/_authenticated/live-map/': typeof AuthenticatedLiveMapIndexRoute
   '/_authenticated/messages/': typeof AuthenticatedMessagesIndexRoute
-  '/_authenticated/reports/': typeof AuthenticatedReportsIndexRoute
   '/_authenticated/routes/': typeof AuthenticatedRoutesIndexRoute
   '/_authenticated/vehicle-checks/': typeof AuthenticatedVehicleChecksIndexRoute
   '/_authenticated/vehicles/': typeof AuthenticatedVehiclesIndexRoute
@@ -218,14 +198,12 @@ export interface FileRouteTypes {
     | '/500'
     | '/503'
     | '/deliveries/$deliveryId'
-    | '/activity-log/'
     | '/admins/'
     | '/alerts/'
     | '/deliveries/'
     | '/drivers/'
     | '/live-map/'
     | '/messages/'
-    | '/reports/'
     | '/routes/'
     | '/vehicle-checks/'
     | '/vehicles/'
@@ -239,14 +217,12 @@ export interface FileRouteTypes {
     | '/503'
     | '/'
     | '/deliveries/$deliveryId'
-    | '/activity-log'
     | '/admins'
     | '/alerts'
     | '/deliveries'
     | '/drivers'
     | '/live-map'
     | '/messages'
-    | '/reports'
     | '/routes'
     | '/vehicle-checks'
     | '/vehicles'
@@ -261,14 +237,12 @@ export interface FileRouteTypes {
     | '/(errors)/503'
     | '/_authenticated/'
     | '/_authenticated/deliveries/$deliveryId'
-    | '/_authenticated/activity-log/'
     | '/_authenticated/admins/'
     | '/_authenticated/alerts/'
     | '/_authenticated/deliveries/'
     | '/_authenticated/drivers/'
     | '/_authenticated/live-map/'
     | '/_authenticated/messages/'
-    | '/_authenticated/reports/'
     | '/_authenticated/routes/'
     | '/_authenticated/vehicle-checks/'
     | '/_authenticated/vehicles/'
@@ -363,13 +337,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AuthenticatedRoutesIndexRouteImport
       parentRoute: typeof AuthenticatedRouteRoute
     }
-    '/_authenticated/reports/': {
-      id: '/_authenticated/reports/'
-      path: '/reports'
-      fullPath: '/reports/'
-      preLoaderRoute: typeof AuthenticatedReportsIndexRouteImport
-      parentRoute: typeof AuthenticatedRouteRoute
-    }
     '/_authenticated/messages/': {
       id: '/_authenticated/messages/'
       path: '/messages'
@@ -412,13 +379,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AuthenticatedAdminsIndexRouteImport
       parentRoute: typeof AuthenticatedRouteRoute
     }
-    '/_authenticated/activity-log/': {
-      id: '/_authenticated/activity-log/'
-      path: '/activity-log'
-      fullPath: '/activity-log/'
-      preLoaderRoute: typeof AuthenticatedActivityLogIndexRouteImport
-      parentRoute: typeof AuthenticatedRouteRoute
-    }
     '/_authenticated/deliveries/$deliveryId': {
       id: '/_authenticated/deliveries/$deliveryId'
       path: '/deliveries/$deliveryId'
@@ -432,14 +392,12 @@ declare module '@tanstack/react-router' {
 interface AuthenticatedRouteRouteChildren {
   AuthenticatedIndexRoute: typeof AuthenticatedIndexRoute
   AuthenticatedDeliveriesDeliveryIdRoute: typeof AuthenticatedDeliveriesDeliveryIdRoute
-  AuthenticatedActivityLogIndexRoute: typeof AuthenticatedActivityLogIndexRoute
   AuthenticatedAdminsIndexRoute: typeof AuthenticatedAdminsIndexRoute
   AuthenticatedAlertsIndexRoute: typeof AuthenticatedAlertsIndexRoute
   AuthenticatedDeliveriesIndexRoute: typeof AuthenticatedDeliveriesIndexRoute
   AuthenticatedDriversIndexRoute: typeof AuthenticatedDriversIndexRoute
   AuthenticatedLiveMapIndexRoute: typeof AuthenticatedLiveMapIndexRoute
   AuthenticatedMessagesIndexRoute: typeof AuthenticatedMessagesIndexRoute
-  AuthenticatedReportsIndexRoute: typeof AuthenticatedReportsIndexRoute
   AuthenticatedRoutesIndexRoute: typeof AuthenticatedRoutesIndexRoute
   AuthenticatedVehicleChecksIndexRoute: typeof AuthenticatedVehicleChecksIndexRoute
   AuthenticatedVehiclesIndexRoute: typeof AuthenticatedVehiclesIndexRoute
@@ -449,14 +407,12 @@ const AuthenticatedRouteRouteChildren: AuthenticatedRouteRouteChildren = {
   AuthenticatedIndexRoute: AuthenticatedIndexRoute,
   AuthenticatedDeliveriesDeliveryIdRoute:
     AuthenticatedDeliveriesDeliveryIdRoute,
-  AuthenticatedActivityLogIndexRoute: AuthenticatedActivityLogIndexRoute,
   AuthenticatedAdminsIndexRoute: AuthenticatedAdminsIndexRoute,
   AuthenticatedAlertsIndexRoute: AuthenticatedAlertsIndexRoute,
   AuthenticatedDeliveriesIndexRoute: AuthenticatedDeliveriesIndexRoute,
   AuthenticatedDriversIndexRoute: AuthenticatedDriversIndexRoute,
   AuthenticatedLiveMapIndexRoute: AuthenticatedLiveMapIndexRoute,
   AuthenticatedMessagesIndexRoute: AuthenticatedMessagesIndexRoute,
-  AuthenticatedReportsIndexRoute: AuthenticatedReportsIndexRoute,
   AuthenticatedRoutesIndexRoute: AuthenticatedRoutesIndexRoute,
   AuthenticatedVehicleChecksIndexRoute: AuthenticatedVehicleChecksIndexRoute,
   AuthenticatedVehiclesIndexRoute: AuthenticatedVehiclesIndexRoute,

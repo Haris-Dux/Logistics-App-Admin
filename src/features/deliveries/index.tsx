@@ -5,7 +5,6 @@ import { useDepotId } from '@/stores/depot-store'
 import { recentDays } from '@/lib/dates'
 import { useDebouncedValue } from '@/hooks/use-debounced-value'
 import { DateRangePicker } from '@/components/date-range-picker'
-import { AppHeader } from '@/components/layout/app-header'
 import { Main } from '@/components/layout/main'
 import { PageTitle } from '@/components/layout/page-title'
 import { DeliveriesTable } from './components/deliveries-table'
@@ -25,11 +24,9 @@ export function Deliveries() {
 
   return (
     <>
-      <AppHeader fixed />
       <Main className='flex flex-1 flex-col gap-4 sm:gap-6'>
         <PageTitle
           title='Deliveries'
-          description='Every stop with planned vs actual arrival, skips and proof of delivery.'
         >
           <DateRangePicker
             value={range}

@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { depotMarker, stopStates } from '@/config/statuses'
 import { Check, LocateFixed } from 'lucide-react'
@@ -7,6 +7,7 @@ import { positionsQueryOptions } from '@/api/positions'
 import { atTimeOfDay, todayParam } from '@/lib/dates'
 import { type FleetVan, findNextStop, getStopState, tripAt } from '@/lib/fleet'
 import { formatAge } from '@/lib/format'
+import { getTripColor } from '@/lib/trip-colors'
 import { useNow } from '@/hooks/use-now'
 import { Button } from '@/components/ui/button'
 import { MapFitBounds, MapFollow } from '@/components/map/map-camera'
@@ -45,18 +46,61 @@ export function FleetWorkspace({
   const { data: depots } = useQuery(depotsQueryOptions())
   const replay = useReplay(shift?.id, positions.length)
   const [follow, setFollow] = useState(false)
+  const [selectedTripId, setSelectedTripId] = useState<string>('all')
+  const [replayEnded, setReplayEnded] = useState(false)
 
-  const replayFix = replay.index === null ? undefined : positions[replay.index]
+  useEffect(() => {
+    setSelectedTripId('all')
+    setReplayEnded(false)
+  }, [shift?.id])
+
+  const replayIndex = replayEnded ? null : replay.index
+  const replayFix = replayIndex === null ? undefined : positions[replayIndex]
   const at = replayFix?.recordedAt
-  const trip = shift && (at ? tripAt(shift.trips, at) : selectedVan.currentTrip)
+  const trip = !shift
+    ? undefined
+    : at
+      ? tripAt(shift.trips, at)
+      : selectedTripId === 'all'
+        ? undefined
+        : (shift.trips.find((item) => item.id === selectedTripId) ??
+          selectedVan?.currentTrip)
   const tripId = trip?.id
-  const tripStops = useMemo(
-    () => selectedVan?.stops.filter((stop) => stop.tripId === tripId) ?? [],
-    [selectedVan, tripId]
-  )
+  const showAll = !at && selectedTripId === 'all'
+
+  const tripStops = useMemo(() => {
+    if (!selectedVan) return []
+    if (tripId) return selectedVan.stops.filter((s) => s.tripId === tripId)
+    return selectedTripId === 'all' ? selectedVan.stops : []
+  }, [selectedVan, selectedTripId, tripId])
+
   const nextStop = findNextStop(tripStops, at)
-  const trail =
-    replay.index === null ? positions : positions.slice(0, replay.index + 1)
+
+  const trail = useMemo(
+    () =>
+      replayIndex === null ? positions : positions.slice(0, replayIndex + 1),
+    [positions, replayIndex]
+  )
+
+  const tripTrails = useMemo(() => {
+    if (!shift || (!showAll && !trip)) return []
+
+    const grouped = new Map<string, { color: string; points: typeof trail }>()
+    for (const point of trail) {
+      const pointTrip = tripAt(shift.trips, point.recordedAt)
+      if (!pointTrip || (!showAll && pointTrip.id !== trip?.id)) continue
+
+      const group = grouped.get(pointTrip.id) ?? {
+        color: getTripColor(pointTrip.tripNumber),
+        points: [] as typeof trail,
+      }
+      group.points.push(point)
+      grouped.set(pointTrip.id, group)
+    }
+
+    return Array.from(grouped, ([id, group]) => ({ tripId: id, ...group }))
+  }, [shift, trip, trail, showAll])
+
   const selectedFix = replayFix ?? selectedVan?.position
   const depot = depots?.find((item) => item.id === shift?.depotId)
 
@@ -117,9 +161,17 @@ export function FleetWorkspace({
     ]
   }, [tripStops, nextStop?.id, at, depot])
 
-  const fitPoints = shift
-    ? [...trail, ...tripStops.map((stop) => stop.location)]
-    : vans.flatMap(({ position }) => (position ? [position] : []))
+  const fitPoints = useMemo(
+    () =>
+      shift
+        ? [
+            ...tripTrails.flatMap((t) => t.points),
+            ...tripStops.map((s) => s.location),
+          ]
+        : vans.flatMap(({ position }) => (position ? [position] : [])),
+    [shift, tripTrails, tripStops, vans]
+  )
+
   const isRunning = date === todayParam() && !shift?.endedAt
   const lastTrip = shift?.trips[shift.trips.length - 1]
   const plannedEnd = lastTrip && atTimeOfDay(date, lastTrip.plannedEnd)
@@ -130,7 +182,9 @@ export function FleetWorkspace({
         <div className='relative min-h-0 flex-1'>
           <MapView styleToggle>
             <VanMarkersLayer vans={markers} onSelect={onSelect} />
-            {shift && <RouteTrailLayer points={trail} />}
+            {tripTrails.map(({ tripId: id, points: trailPoints, color }) => (
+              <RouteTrailLayer key={id} points={trailPoints} color={color} />
+            ))}
             <PointsLayer points={points} />
             <MapFitBounds
               key={shift?.id ?? vans.map((van) => van.shift.id).join()}
@@ -150,7 +204,7 @@ export function FleetWorkspace({
             )}
           </MapView>
         </div>
-        {shift && (
+        {selectedVan && shift && (
           <DayTimeline
             title={shift.vehicle.registration}
             positions={positions}
@@ -161,10 +215,16 @@ export function FleetWorkspace({
               (plannedEnd && plannedEnd > now ? plannedEnd : now)
             }
             now={isRunning ? now : undefined}
-            index={replay.index ?? positions.length - 1}
+            index={replayIndex ?? positions.length - 1}
             playing={replay.playing}
-            onSeek={replay.seek}
-            onPlay={replay.play}
+            onSeek={(index) => {
+              setReplayEnded(false)
+              replay.seek(index)
+            }}
+            onPlay={() => {
+              setReplayEnded(false)
+              replay.play()
+            }}
             onPause={replay.pause}
           />
         )}
@@ -177,7 +237,19 @@ export function FleetWorkspace({
           nextStop={nextStop}
           at={at}
           now={now}
-          onReplay={replay.restart}
+          onReplay={() => {
+            setSelectedTripId(shift?.trips[0]?.id ?? 'all')
+            setReplayEnded(false)
+            replay.restart()
+          }}
+          onSelectTrip={(id) => {
+            if (id === 'all') {
+              replay.pause()
+              setReplayEnded(true)
+            }
+            setSelectedTripId(id)
+          }}
+          selectedTripId={at ? (tripId ?? selectedTripId) : selectedTripId}
         />
       )}
     </>

@@ -2,7 +2,6 @@ import { useQuery } from '@tanstack/react-query'
 import { getRouteApi } from '@tanstack/react-router'
 import { adminsQueryOptions } from '@/api/admins'
 import { depotsQueryOptions } from '@/api/depots'
-import { AppHeader } from '@/components/layout/app-header'
 import { Main } from '@/components/layout/main'
 import { PageTitle } from '@/components/layout/page-title'
 import { AdminsDialogs } from './components/admins-dialogs'
@@ -20,11 +19,9 @@ export function Admins() {
 
   return (
     <AdminsProvider>
-      <AppHeader fixed />
       <Main className='flex flex-1 flex-col gap-4 sm:gap-6'>
         <PageTitle
           title='Admins'
-          description='Who can sign in to the portal, and which depots they see.'
         >
           <AdminsPrimaryButtons />
         </PageTitle>

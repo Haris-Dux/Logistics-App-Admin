@@ -6,7 +6,6 @@ import { deliveryQueryOptions } from '@/api/deliveries'
 import { getDeliveryState } from '@/lib/deliveries'
 import { Card, CardContent } from '@/components/ui/card'
 import { Skeleton } from '@/components/ui/skeleton'
-import { AppHeader } from '@/components/layout/app-header'
 import { Main } from '@/components/layout/main'
 import { StatusBadge } from '@/components/status-badge'
 import { InvoicesCard } from './invoices-card'
@@ -21,7 +20,6 @@ export function DeliveryDetail() {
 
   return (
     <>
-      <AppHeader fixed />
       <Main className='flex flex-col gap-4 sm:gap-6'>
         {!delivery ? (
           <Skeleton className='h-96 w-full' />

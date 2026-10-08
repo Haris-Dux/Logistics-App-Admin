@@ -1,3 +1,4 @@
+import { Fragment } from 'react'
 import { Link } from '@tanstack/react-router'
 import { shiftStatuses, windowResults } from '@/config/statuses'
 import { History, MessageSquare } from 'lucide-react'
@@ -6,11 +7,13 @@ import { type Trip } from '@/api/trips'
 import { getWindowResult } from '@/lib/deliveries'
 import { type FleetVan, getStopState } from '@/lib/fleet'
 import { formatAge, formatSpeed, formatTime } from '@/lib/format'
+import { getTripColor } from '@/lib/trip-colors'
 import { Button } from '@/components/ui/button'
 import { ScrollArea } from '@/components/ui/scroll-area'
 import { DeliveryProgress } from '@/components/delivery-progress'
 import { StatusBadge } from '@/components/status-badge'
 import { StopNumber } from './stop-number'
+import { TripPicker } from './trip-picker'
 
 type VanDetailsProps = {
   van: FleetVan
@@ -21,6 +24,8 @@ type VanDetailsProps = {
   at?: Date
   now: Date
   onReplay: () => void
+  onSelectTrip: (tripId: string) => void
+  selectedTripId?: string
 }
 
 /** Arrival recorded by time `at` (any time when not replaying). */
@@ -48,6 +53,8 @@ export function VanDetails({
   at,
   now,
   onReplay,
+  onSelectTrip,
+  selectedTripId,
 }: VanDetailsProps) {
   const { shift, position } = van
   const states = stops.map((stop) => getStopState(stop, nextStop?.id, at))
@@ -72,12 +79,28 @@ export function VanDetails({
             }
           />
         </div>
-        <p className='text-sm text-muted-foreground'>
-          {shift.driver.name} · Route {shift.routeNumber}
-          {trip && ` · Trip ${trip.tripNumber} of ${shift.trips.length}`}
-          {position &&
-            ` · last update ${formatAge(position.recordedAt, now)} ago`}
-        </p>
+        <div className='flex flex-wrap items-center gap-2 text-sm text-muted-foreground'>
+          <span>
+            {shift.driver.name} · Route {shift.routeNumber}
+          </span>
+          {(trip || selectedTripId === 'all') && (
+            <TripPicker
+              trips={shift.trips}
+              trip={trip}
+              selectedTripId={selectedTripId}
+              onSelectTrip={onSelectTrip}
+              isTripEnabled={(item) =>
+                item.id === van.currentTrip?.id ||
+                van.stops.some((s) => s.tripId === item.id && s.actualArrival)
+              }
+            />
+          )}
+          {position && (
+            <span>
+              · last update {formatAge(position.recordedAt, now)} ago
+            </span>
+          )}
+        </div>
       </div>
 
       <div className='space-y-2'>
@@ -123,29 +146,48 @@ export function VanDetails({
           Stops (planned → actual)
         </p>
         <ScrollArea className='min-h-0 flex-1'>
-          <ul className='divide-y pe-3'>
+          <ul className='pe-3'>
             {stops.map((stop, index) => {
               const state = states[index]
               const done = state === 'delivered' || state === 'skipped'
+              const groupTrip =
+                selectedTripId === 'all' &&
+                stop.tripId !== stops[index - 1]?.tripId
+                  ? shift.trips.find((t) => t.id === stop.tripId)
+                  : undefined
               return (
-                <li
-                  key={stop.id}
-                  className='flex items-center gap-3 py-2 text-sm'
-                >
-                  <StopNumber sequence={stop.sequence} state={state} />
-                  <span className='min-w-0 flex-1 truncate'>
-                    {stop.customerName}
-                    {done && stop.skipReason && (
-                      <span className='text-muted-foreground'>
-                        {' '}
-                        · {stop.skipReason}
-                      </span>
-                    )}
-                  </span>
-                  <span className='shrink-0 text-muted-foreground tabular-nums'>
-                    <StopTimes stop={stop} at={at} />
-                  </span>
-                </li>
+                <Fragment key={stop.id}>
+                  {groupTrip && (
+                    <li className='flex items-center gap-2 pt-3 pb-1 text-xs font-medium text-muted-foreground uppercase'>
+                      <span
+                        className='size-2 rounded-full'
+                        style={{
+                          backgroundColor: getTripColor(groupTrip.tripNumber),
+                        }}
+                      />
+                      Trip {groupTrip.tripNumber}
+                    </li>
+                  )}
+                  <li
+                    className={`flex items-center gap-3 py-2 text-sm ${
+                      index > 0 && !groupTrip ? 'border-t' : ''
+                    }`}
+                  >
+                    <StopNumber sequence={stop.sequence} state={state} />
+                    <span className='min-w-0 flex-1 truncate'>
+                      {stop.customerName}
+                      {done && stop.skipReason && (
+                        <span className='text-muted-foreground'>
+                          {' '}
+                          · {stop.skipReason}
+                        </span>
+                      )}
+                    </span>
+                    <span className='shrink-0 text-muted-foreground tabular-nums'>
+                      <StopTimes stop={stop} at={at} />
+                    </span>
+                  </li>
+                </Fragment>
               )
             })}
           </ul>

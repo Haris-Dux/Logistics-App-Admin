@@ -9,13 +9,11 @@ import { todayParam } from '@/lib/dates'
 import { isLateRisk } from '@/lib/deliveries'
 import { useFleetDay } from '@/hooks/use-fleet-day'
 import { DeliveryProgress } from '@/components/delivery-progress'
-import { AppHeader } from '@/components/layout/app-header'
 import { Main } from '@/components/layout/main'
 import { PageTitle } from '@/components/layout/page-title'
 import { StatCard } from '@/components/stat-card'
 import { LiveMapPreview } from './components/live-map-preview'
 import { NeedsAttention } from './components/needs-attention'
-import { VehiclesProgress } from './components/vehicles-progress'
 
 export function Overview() {
   const today = todayParam()
@@ -41,7 +39,6 @@ export function Overview() {
 
   return (
     <>
-      <AppHeader />
       <Main className='flex flex-col gap-4 sm:gap-6'>
         <PageTitle title='Today at a glance' />
         <div className='grid gap-4 sm:grid-cols-2 lg:grid-cols-5'>
@@ -81,7 +78,6 @@ export function Overview() {
             <NeedsAttention alerts={alerts} />
           </div>
         </div>
-        <VehiclesProgress vans={vans} />
       </Main>
     </>
   )

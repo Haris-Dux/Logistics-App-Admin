@@ -33,7 +33,7 @@ export function LiveMapPreview({ vans }: { vans: FleetVan[] }) {
   )
 
   return (
-    <Card className='gap-3'>
+    <Card className='h-full w-full gap-3'>
       <CardHeader className='flex items-center justify-between'>
         <CardTitle>Live map</CardTitle>
         <Link
